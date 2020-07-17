@@ -43,9 +43,8 @@ query {
                     name
                     email
                     user {
-                      name
+                      databaseId
                     }
-                    date
                     avatarUrl(size: 100)
                   }
                 }
@@ -83,9 +82,9 @@ def fetch_contributors(oauth_token, owner, name):
             "edges"
         ]:
             if None is not node["node"]["committer"]["user"]:
-                if not contributors_elem.get(node["node"]["committer"]["name"], False):
-                    contributors_elem[node["node"]["committer"]["email"]] = node["node"]["committer"]
-                    contributors_cnt[node["node"]["committer"]["email"]] += 1
+                if None is contributors_cnt.get(node["node"]["committer"]["user"]["databaseId"]):
+                    contributors_elem[node["node"]["committer"]["user"]["databaseId"]] = node["node"]["committer"]
+                contributors_cnt[node["node"]["committer"]["user"]["databaseId"]] += 1
 
         has_next_page = data["data"]["repository"]["defaultBranchRef"]["target"]["history"]["pageInfo"][
             "hasNextPage"
