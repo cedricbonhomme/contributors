@@ -96,7 +96,7 @@ def fetch_contributors(oauth_token, owner, name):
             "history"
         ]["pageInfo"]["endCursor"]
         limit += 1
-        if limit >= 500:
+        if limit >= 2:
             has_next_page = False
 
     return contributors_elem, contributors_cnt
@@ -105,104 +105,34 @@ def fetch_contributors(oauth_token, owner, name):
 if __name__ == "__main__":
     readme = root / "README.md"
 
-    contributors_elem, contributors_cnt = fetch_contributors(TOKEN, "MISP", "MISP")
-    commons = contributors_cnt.most_common(200)
-    md = "\n".join(
-        [
-            '<a href="https://github.com/{0}"><img src="{1}" title="{2} commits" width="50px" /></a>'.format(
-                contributors_elem[contributor]["user"]["login"],
-                contributors_elem[contributor]["avatarUrl"],
-                count,
-            )
-            for contributor, count in commons
-        ]
-    )
-    readme_contents = readme.open().read()
-    rewritten = replace_chunk(readme_contents, "contributors-MISP", md)
+    projects = [
+        ("MISP", "MISP"),
+        ("MISP", "PyMISP"),
+        ("monarc-project", "MonarcAppFO"),
+        ("cedricbonhomme", "stegano"),
+        ("CIRCL", "AIL-framework"),
+        ("CASES-LU", "Fit4Cybersecurity"),
+        ("cve-search", "cve-search")
+    ]
 
-    contributors_elem, contributors_cnt = fetch_contributors(TOKEN, "MISP", "PyMISP")
-    commons = contributors_cnt.most_common(200)
-    md = "\n".join(
-        [
-            '<a href="https://github.com/{0}"><img src="{1}" title="{2} commits" width="50px" /></a>'.format(
-                contributors_elem[contributor]["user"]["login"],
-                contributors_elem[contributor]["avatarUrl"],
-                count,
-            )
-            for contributor, count in commons
-        ]
-    )
-    readme_contents = readme.open().read()
-    rewritten = replace_chunk(rewritten, "contributors-PyMISP", md)
-
-    contributors_elem, contributors_cnt = fetch_contributors(
-        TOKEN, "monarc-project", "MonarcAppFO"
-    )
-    commons = contributors_cnt.most_common(200)
-    md = "\n".join(
-        [
-            '<a href="https://github.com/{0}"><img src="{1}" title="{2} commits" width="50px" /></a>'.format(
-                contributors_elem[contributor]["user"]["login"],
-                contributors_elem[contributor]["avatarUrl"],
-                count,
-            )
-            for contributor, count in commons
-        ]
-    )
-    readme_contents = readme.open().read()
-    rewritten = replace_chunk(rewritten, "contributors-MONARC", md)
-
-    contributors_elem, contributors_cnt = fetch_contributors(
-        TOKEN, "cedricbonhomme", "stegano"
-    )
-    commons = contributors_cnt.most_common(200)
-    md = "\n".join(
-        [
-            '<a href="https://github.com/{0}"><img src="{1}" title="{2} commits" width="50px" /></a>'.format(
-                contributors_elem[contributor]["user"]["login"],
-                contributors_elem[contributor]["avatarUrl"],
-                count,
-            )
-            for contributor, count in commons
-        ]
-    )
-    readme_contents = readme.open().read()
-    rewritten = replace_chunk(rewritten, "contributors-stegano", md)
-
-    contributors_elem, contributors_cnt = fetch_contributors(
-        TOKEN, "CIRCL", "AIL-framework"
-    )
-    commons = contributors_cnt.most_common(200)
-    md = "\n".join(
-        [
-            '<a href="https://github.com/{0}"><img src="{1}" title="{2} commits" width="50px" /></a>'.format(
-                contributors_elem[contributor]["user"]["login"],
-                contributors_elem[contributor]["avatarUrl"],
-                count,
-            )
-            for contributor, count in commons
-        ]
-    )
-    readme_contents = readme.open().read()
-    rewritten = replace_chunk(rewritten, "contributors-AIL-framework", md)
-
-
-    contributors_elem, contributors_cnt = fetch_contributors(
-        TOKEN, "CASES-LU", "Fit4Cybersecurity"
-    )
-    commons = contributors_cnt.most_common(200)
-    md = "\n".join(
-        [
-            '<a href="https://github.com/{0}"><img src="{1}" title="{2} commits" width="50px" /></a>'.format(
-                contributors_elem[contributor]["user"]["login"],
-                contributors_elem[contributor]["avatarUrl"],
-                count,
-            )
-            for contributor, count in commons
-        ]
-    )
-    readme_contents = readme.open().read()
-    rewritten = replace_chunk(rewritten, "contributors-Fit4Cybersecurity", md)
-
+    for project in projects:
+        contributors_elem, contributors_cnt = fetch_contributors(
+            TOKEN, project[0], project[1]
+        )
+        commons = contributors_cnt.most_common(200)
+        md = "\n".join(
+            [
+                '<a href="https://github.com/{0}"><img src="{1}" title="{2} commits" width="50px" /></a>'.format(
+                    contributors_elem[contributor]["user"]["login"],
+                    contributors_elem[contributor]["avatarUrl"],
+                    count,
+                )
+                for contributor, count in commons
+            ]
+        )
+        readme_contents = readme.open().read()
+        rewritten = replace_chunk(
+            readme_contents, "contributors-{}".format(project[1]), md
+        )
 
     readme.open("w").write(rewritten)
