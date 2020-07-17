@@ -96,7 +96,7 @@ def fetch_contributors(oauth_token, owner, name):
             "history"
         ]["pageInfo"]["endCursor"]
         limit += 1
-        if limit >= 450:
+        if limit >= 500:
             has_next_page = False
 
     return contributors_elem, contributors_cnt
@@ -109,7 +109,7 @@ if __name__ == "__main__":
     commons = contributors_cnt.most_common(200)
     md = "\n".join(
         [
-            '<a href="https://github.com/{0}"><img src="{1}" title="{2}" width="50px" /></a>'.format(
+            '<a href="https://github.com/{0}"><img src="{1}" title="{2} commits" width="50px" /></a>'.format(
                 contributors_elem[contributor]["user"]["login"],
                 contributors_elem[contributor]["avatarUrl"],
                 count,
@@ -124,7 +124,7 @@ if __name__ == "__main__":
     commons = contributors_cnt.most_common(200)
     md = "\n".join(
         [
-            '<a href="https://github.com/{0}"><img src="{1}" title="{2}" width="50px" /></a>'.format(
+            '<a href="https://github.com/{0}"><img src="{1}" title="{2} commits" width="50px" /></a>'.format(
                 contributors_elem[contributor]["user"]["login"],
                 contributors_elem[contributor]["avatarUrl"],
                 count,
@@ -141,7 +141,7 @@ if __name__ == "__main__":
     commons = contributors_cnt.most_common(200)
     md = "\n".join(
         [
-            '<a href="https://github.com/{0}"><img src="{1}" title="{2}" width="50px" /></a>'.format(
+            '<a href="https://github.com/{0}"><img src="{1}" title="{2} commits" width="50px" /></a>'.format(
                 contributors_elem[contributor]["user"]["login"],
                 contributors_elem[contributor]["avatarUrl"],
                 count,
@@ -158,7 +158,7 @@ if __name__ == "__main__":
     commons = contributors_cnt.most_common(200)
     md = "\n".join(
         [
-            '<a href="https://github.com/{0}"><img src="{1}" title="{2}" width="50px" /></a>'.format(
+            '<a href="https://github.com/{0}"><img src="{1}" title="{2} commits" width="50px" /></a>'.format(
                 contributors_elem[contributor]["user"]["login"],
                 contributors_elem[contributor]["avatarUrl"],
                 count,
@@ -175,7 +175,7 @@ if __name__ == "__main__":
     commons = contributors_cnt.most_common(200)
     md = "\n".join(
         [
-            '<a href="https://github.com/{0}"><img src="{1}" title="{2}" width="50px" /></a>'.format(
+            '<a href="https://github.com/{0}"><img src="{1}" title="{2} commits" width="50px" /></a>'.format(
                 contributors_elem[contributor]["user"]["login"],
                 contributors_elem[contributor]["avatarUrl"],
                 count,
@@ -185,5 +185,24 @@ if __name__ == "__main__":
     )
     readme_contents = readme.open().read()
     rewritten = replace_chunk(rewritten, "contributors-AIL-framework", md)
+
+
+    contributors_elem, contributors_cnt = fetch_contributors(
+        TOKEN, "CASES-LU", "Fit4Cybersecurity"
+    )
+    commons = contributors_cnt.most_common(200)
+    md = "\n".join(
+        [
+            '<a href="https://github.com/{0}"><img src="{1}" title="{2} commits" width="50px" /></a>'.format(
+                contributors_elem[contributor]["user"]["login"],
+                contributors_elem[contributor]["avatarUrl"],
+                count,
+            )
+            for contributor, count in commons
+        ]
+    )
+    readme_contents = readme.open().read()
+    rewritten = replace_chunk(rewritten, "contributors-Fit4Cybersecurity", md)
+
 
     readme.open("w").write(rewritten)
