@@ -96,7 +96,7 @@ def fetch_contributors(oauth_token, owner, name):
             "history"
         ]["pageInfo"]["endCursor"]
         limit += 1
-        if limit >= 2:
+        if limit >= 500:
             has_next_page = False
 
     return contributors_elem, contributors_cnt
