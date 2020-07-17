@@ -30,7 +30,7 @@ query {
     defaultBranchRef {
       target {
         ... on Commit {
-          history(after: null) {
+          history(after: AFTER) {
             pageInfo {
               hasNextPage
               endCursor
