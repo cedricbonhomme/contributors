@@ -94,7 +94,7 @@ def fetch_contributors(oauth_token, owner, name):
             "endCursor"
         ]
         limit += 1
-        if limit >= 300:
+        if limit >= 450:
             has_next_page = False
 
     return contributors_elem, contributors_cnt
