@@ -69,6 +69,8 @@ def fetch_contributors(oauth_token, owner, name):
     has_next_page = True
     after_cursor = None
 
+    limit = 0
+
     contributors_elem = {}
     contributors_cnt = Counter()
     while has_next_page:
@@ -91,6 +93,9 @@ def fetch_contributors(oauth_token, owner, name):
         after_cursor = data["data"]["repository"]["defaultBranchRef"]["target"]["history"]["pageInfo"][
             "endCursor"
         ]
+        limit += 1
+        if limit >= 10:
+            has_next_page = False
 
     return contributors_elem, contributors_cnt
 

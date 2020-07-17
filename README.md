@@ -19,26 +19,26 @@
 ### PyMISP
 
 <!-- contributors-PyMISP starts -->
-![Raphaël Vinot](https://avatars1.githubusercontent.com/u/248875?s=100&v=4)
-![VVX7](https://avatars2.githubusercontent.com/u/46228229?s=100&v=4)
-![Christophe Vandeplas](https://avatars0.githubusercontent.com/u/1073662?s=100&v=4)
-![Sebastian Wagner](https://avatars1.githubusercontent.com/u/25031221?s=100&v=4)
+<a href="https://github.com/Raphaël Vinot"><img src="https://avatars1.githubusercontent.com/u/248875?s=100&v=4" alt="drawing" style="width:100px;"/></a>
+<a href="https://github.com/VVX7"><img src="https://avatars2.githubusercontent.com/u/46228229?s=100&v=4" alt="drawing" style="width:100px;"/></a>
+<a href="https://github.com/Christophe Vandeplas"><img src="https://avatars0.githubusercontent.com/u/1073662?s=100&v=4" alt="drawing" style="width:100px;"/></a>
+<a href="https://github.com/Sebastian Wagner"><img src="https://avatars1.githubusercontent.com/u/25031221?s=100&v=4" alt="drawing" style="width:100px;"/></a>
 <!-- contributors-PyMISP ends -->
 
 
 ### MONARC
 
 <!-- contributors-MONARC starts -->
-![Cédric Bonhomme](https://avatars1.githubusercontent.com/u/465400?s=100&v=4)
-![Ruslan Baidan](https://avatars2.githubusercontent.com/u/3246171?s=100&v=4)
-![Jerome Lombardi](https://avatars1.githubusercontent.com/u/18661517?s=100&v=4)
+<a href="https://github.com/Cédric Bonhomme"><img src="https://avatars1.githubusercontent.com/u/465400?s=100&v=4" alt="drawing" style="width:100px;"/></a>
+<a href="https://github.com/Ruslan Baidan"><img src="https://avatars2.githubusercontent.com/u/3246171?s=100&v=4" alt="drawing" style="width:100px;"/></a>
+<a href="https://github.com/Jerome Lombardi"><img src="https://avatars1.githubusercontent.com/u/18661517?s=100&v=4" alt="drawing" style="width:100px;"/></a>
 <!-- contributors-MONARC ends -->
 
 
 ### Stegano
 
 <!-- contributors-stegano starts -->
-![Cédric Bonhomme](https://avatars1.githubusercontent.com/u/465400?s=100&v=4)
-![AdrienCos](https://avatars1.githubusercontent.com/u/25573947?s=100&v=4)
-![Peter Justin](https://avatars2.githubusercontent.com/u/1510708?s=100&v=4)
+<a href="https://github.com/Cédric Bonhomme"><img src="https://avatars1.githubusercontent.com/u/465400?s=100&v=4" alt="drawing" style="width:100px;"/></a>
+<a href="https://github.com/AdrienCos"><img src="https://avatars1.githubusercontent.com/u/25573947?s=100&v=4" alt="drawing" style="width:100px;"/></a>
+<a href="https://github.com/Peter Justin"><img src="https://avatars2.githubusercontent.com/u/1510708?s=100&v=4" alt="drawing" style="width:100px;"/></a>
 <!-- contributors-stegano ends -->
