@@ -94,7 +94,7 @@ def fetch_contributors(oauth_token, owner, name):
             "endCursor"
         ]
         limit += 1
-        if limit >= 50:
+        if limit >= 100:
             has_next_page = False
 
     return contributors_elem, contributors_cnt
@@ -107,7 +107,7 @@ if __name__ == "__main__":
     commons = contributors_cnt.most_common(100)
     md = "\n".join(
         [
-            '<a href="https://github.com/{0}"><img src="{1}" alt="drawing" style="width:100px;"/></a>'.format(contributors_elem[contributor]["name"], contributors_elem[contributor]["avatarUrl"])
+            '<a href="https://github.com/{0}"><img src="{1}" alt="avatar" style="width:100px;" width="100px" /></a>'.format(contributors_elem[contributor]["name"], contributors_elem[contributor]["avatarUrl"])
             for contributor, count in commons
         ]
     )
@@ -119,7 +119,7 @@ if __name__ == "__main__":
     commons = contributors_cnt.most_common(100)
     md = "\n".join(
         [
-            '<a href="https://github.com/{0}"><img src="{1}" alt="drawing" style="width:100px;"/></a>'.format(contributors_elem[contributor]["name"], contributors_elem[contributor]["avatarUrl"])
+            '<a href="https://github.com/{0}"><img src="{1}" alt="avatar" style="width:100px;" width="100px" /></a>'.format(contributors_elem[contributor]["name"], contributors_elem[contributor]["avatarUrl"])
             for contributor, count in commons
         ]
     )
@@ -131,7 +131,7 @@ if __name__ == "__main__":
     commons = contributors_cnt.most_common(100)
     md = "\n".join(
         [
-            '<a href="https://github.com/{0}"><img src="{1}" alt="drawing" style="width:100px;"/></a>'.format(contributors_elem[contributor]["name"], contributors_elem[contributor]["avatarUrl"])
+            '<a href="https://github.com/{0}"><img src="{1}" alt="avatar" style="width:100px;" width="100px" /></a>'.format(contributors_elem[contributor]["name"], contributors_elem[contributor]["avatarUrl"])
             for contributor, count in commons
         ]
     )
@@ -143,7 +143,7 @@ if __name__ == "__main__":
     commons = contributors_cnt.most_common(100)
     md = "\n".join(
         [
-            '<a href="https://github.com/{0}"><img src="{1}" alt="drawing" style="width:100px;"/></a>'.format(contributors_elem[contributor]["name"], contributors_elem[contributor]["avatarUrl"])
+            '<a href="https://github.com/{0}"><img src="{1}" alt="avatar" style="width:100px;" width="100px" /></a>'.format(contributors_elem[contributor]["name"], contributors_elem[contributor]["avatarUrl"])
             for contributor, count in commons
         ]
     )
