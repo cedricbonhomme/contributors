@@ -94,7 +94,7 @@ def fetch_contributors(oauth_token, owner, name):
             "endCursor"
         ]
         limit += 1
-        if limit >= 100:
+        if limit >= 200:
             has_next_page = False
 
     return contributors_elem, contributors_cnt
@@ -104,7 +104,7 @@ if __name__ == "__main__":
     readme = root / "README.md"
 
     contributors_elem, contributors_cnt = fetch_contributors(TOKEN, "MISP", "MISP")
-    commons = contributors_cnt.most_common(100)
+    commons = contributors_cnt.most_common(200)
     md = "\n".join(
         [
             '<a href="https://github.com/{0}"><img src="{1}" alt="avatar" style="width:100px;" width="100px" /></a>'.format(contributors_elem[contributor]["name"], contributors_elem[contributor]["avatarUrl"])
@@ -116,7 +116,7 @@ if __name__ == "__main__":
     
     
     contributors_elem, contributors_cnt = fetch_contributors(TOKEN, "MISP", "PyMISP")
-    commons = contributors_cnt.most_common(100)
+    commons = contributors_cnt.most_common(200)
     md = "\n".join(
         [
             '<a href="https://github.com/{0}"><img src="{1}" alt="avatar" style="width:100px;" width="100px" /></a>'.format(contributors_elem[contributor]["name"], contributors_elem[contributor]["avatarUrl"])
@@ -128,7 +128,7 @@ if __name__ == "__main__":
     
     
     contributors_elem, contributors_cnt = fetch_contributors(TOKEN, "monarc-project", "MonarcAppFO")
-    commons = contributors_cnt.most_common(100)
+    commons = contributors_cnt.most_common(200)
     md = "\n".join(
         [
             '<a href="https://github.com/{0}"><img src="{1}" alt="avatar" style="width:100px;" width="100px" /></a>'.format(contributors_elem[contributor]["name"], contributors_elem[contributor]["avatarUrl"])
@@ -140,7 +140,7 @@ if __name__ == "__main__":
 
 
     contributors_elem, contributors_cnt = fetch_contributors(TOKEN, "cedricbonhomme", "stegano")
-    commons = contributors_cnt.most_common(100)
+    commons = contributors_cnt.most_common(200)
     md = "\n".join(
         [
             '<a href="https://github.com/{0}"><img src="{1}" alt="avatar" style="width:100px;" width="100px" /></a>'.format(contributors_elem[contributor]["name"], contributors_elem[contributor]["avatarUrl"])
@@ -149,6 +149,18 @@ if __name__ == "__main__":
     )
     readme_contents = readme.open().read()
     rewritten = replace_chunk(rewritten, "contributors-stegano", md)
+    
+    
+    contributors_elem, contributors_cnt = fetch_contributors(TOKEN, "CIRCL", "AIL-framework")
+    commons = contributors_cnt.most_common(200)
+    md = "\n".join(
+        [
+            '<a href="https://github.com/{0}"><img src="{1}" alt="avatar" style="width:100px;" width="100px" /></a>'.format(contributors_elem[contributor]["name"], contributors_elem[contributor]["avatarUrl"])
+            for contributor, count in commons
+        ]
+    )
+    readme_contents = readme.open().read()
+    rewritten = replace_chunk(rewritten, "contributors-AIL-framework", md)
 
 
     readme.open("w").write(rewritten)

@@ -42,3 +42,12 @@
 <a href="https://github.com/AdrienCos"><img src="https://avatars1.githubusercontent.com/u/25573947?s=100&v=4" alt="drawing" style="width:100px;"/></a>
 <a href="https://github.com/Peter Justin"><img src="https://avatars2.githubusercontent.com/u/1510708?s=100&v=4" alt="drawing" style="width:100px;"/></a>
 <!-- contributors-stegano ends -->
+
+
+### AIL-framework
+
+<!-- contributors-AIL-framework starts -->
+<a href="https://github.com/Cédric Bonhomme"><img src="https://avatars1.githubusercontent.com/u/465400?s=100&v=4" alt="drawing" style="width:100px;"/></a>
+<a href="https://github.com/AdrienCos"><img src="https://avatars1.githubusercontent.com/u/25573947?s=100&v=4" alt="drawing" style="width:100px;"/></a>
+<a href="https://github.com/Peter Justin"><img src="https://avatars2.githubusercontent.com/u/1510708?s=100&v=4" alt="drawing" style="width:100px;"/></a>
+<!-- contributors-AIL-framework ends -->
