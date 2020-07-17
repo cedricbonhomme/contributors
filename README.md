@@ -27,6 +27,39 @@
 <a href="https://github.com/tomking2"><img src="https://avatars0.githubusercontent.com/u/15731689?s=100&v=4" title="1" width="100px" /></a>
 <a href="https://github.com/4ekin"><img src="https://avatars2.githubusercontent.com/u/2716639?s=100&v=4" title="1" width="100px" /></a>
 <a href="https://github.com/VVX7"><img src="https://avatars2.githubusercontent.com/u/46228229?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/Will"><img src="https://avatars3.githubusercontent.com/u/57372819?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/Vito Piserchia"><img src="https://avatars1.githubusercontent.com/u/2363618?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/michael"><img src="https://avatars0.githubusercontent.com/u/39683291?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/Jop van der Lelie"><img src="https://avatars2.githubusercontent.com/u/3155112?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/iwitz"><img src="https://avatars3.githubusercontent.com/u/19936089?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/Andreas Rammhold"><img src="https://avatars2.githubusercontent.com/u/638836?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/co59"><img src="https://avatars3.githubusercontent.com/u/37596668?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/Ruiwen Chua"><img src="https://avatars3.githubusercontent.com/u/307558?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/Sascha Rommelfangen"><img src="https://avatars3.githubusercontent.com/u/274748?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/pbolduc"><img src="https://avatars3.githubusercontent.com/u/62303150?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/Chris Ford"><img src="https://avatars3.githubusercontent.com/u/34066604?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/Ludovic"><img src="https://avatars1.githubusercontent.com/u/415751?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/Daniel Roethlisberger"><img src="https://avatars2.githubusercontent.com/u/749226?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/Mona"><img src="https://avatars3.githubusercontent.com/u/39135076?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/Stephen"><img src="https://avatars3.githubusercontent.com/u/1159138?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/Eugenio Paolantonio"><img src="https://avatars2.githubusercontent.com/u/92799?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/Jorgen Bohnsdalen"><img src="https://avatars2.githubusercontent.com/u/255318?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/Joseph Dane"><img src="https://avatars1.githubusercontent.com/u/20953483?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/arnydo"><img src="https://avatars1.githubusercontent.com/u/11653079?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/Kyle Parrish"><img src="https://avatars3.githubusercontent.com/u/32331867?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/SHSauler"><img src="https://avatars0.githubusercontent.com/u/8420509?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/George"><img src="https://avatars1.githubusercontent.com/u/10531031?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/rmarsollier"><img src="https://avatars3.githubusercontent.com/u/16244397?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/kx499"><img src="https://avatars0.githubusercontent.com/u/3334810?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/Ben Drysdale"><img src="https://avatars3.githubusercontent.com/u/7750798?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/Nick Driver"><img src="https://avatars3.githubusercontent.com/u/6147794?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/Andrew Pease"><img src="https://avatars1.githubusercontent.com/u/7442091?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/The Gitter Badger"><img src="https://avatars2.githubusercontent.com/u/8518239?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/Deventual"><img src="https://avatars2.githubusercontent.com/u/7035285?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/Heiko Siebel"><img src="https://avatars0.githubusercontent.com/u/381256?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/nullprobe"><img src="https://avatars3.githubusercontent.com/u/2757396?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/Bâkır Emre"><img src="https://avatars3.githubusercontent.com/u/51360?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/remg427"><img src="https://avatars3.githubusercontent.com/u/5524371?s=100&v=4" title="1" width="100px" /></a>
 <!-- contributors-MISP ends -->
 
 
@@ -121,4 +154,7 @@
 <a href="https://github.com/swedishmike"><img src="https://avatars1.githubusercontent.com/u/8100625?s=100&v=4" title="1" width="100px" /></a>
 <a href="https://github.com/sw-pschmied"><img src="https://avatars3.githubusercontent.com/u/15813113?s=100&v=4" title="1" width="100px" /></a>
 <a href="https://github.com/raw-data"><img src="https://avatars3.githubusercontent.com/u/29753218?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/ninoseki"><img src="https://avatars3.githubusercontent.com/u/291028?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/Jerome St-Hilaire"><img src="https://avatars1.githubusercontent.com/u/5885106?s=100&v=4" title="1" width="100px" /></a>
+<a href="https://github.com/Koen Van Impe"><img src="https://avatars3.githubusercontent.com/u/256028?s=100&v=4" title="1" width="100px" /></a>
 <!-- contributors-AIL-framework ends -->
