@@ -114,7 +114,7 @@ if __name__ == "__main__":
         ("CASES-LU", "Fit4Cybersecurity"),
         ("cve-search", "cve-search")
     ]
-
+    rewritten = readme.open().read()
     for project in projects:
         contributors_elem, contributors_cnt = fetch_contributors(
             TOKEN, project[0], project[1]
@@ -130,9 +130,8 @@ if __name__ == "__main__":
                 for contributor, count in commons
             ]
         )
-        readme_contents = readme.open().read()
         rewritten = replace_chunk(
-            readme_contents, "contributors-{}".format(project[1]), md
+            rewritten, "contributors-{}".format(project[1]), md
         )
 
     readme.open("w").write(rewritten)
