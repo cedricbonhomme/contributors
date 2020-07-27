@@ -15,7 +15,7 @@
 <a href="https://github.com/Rafiot"><img src="https://avatars1.githubusercontent.com/u/248875?s=100&v=4" title="315 commits" width="50px" /></a>
 <a href="https://github.com/rotanid"><img src="https://avatars2.githubusercontent.com/u/654617?s=100&v=4" title="222 commits" width="50px" /></a>
 <a href="https://github.com/RichieB2B"><img src="https://avatars1.githubusercontent.com/u/1461970?s=100&v=4" title="200 commits" width="50px" /></a>
-<a href="https://github.com/JakubOnderka"><img src="https://avatars3.githubusercontent.com/u/163343?s=100&v=4" title="177 commits" width="50px" /></a>
+<a href="https://github.com/JakubOnderka"><img src="https://avatars3.githubusercontent.com/u/163343?s=100&v=4" title="178 commits" width="50px" /></a>
 <a href="https://github.com/FloatingGhost"><img src="https://avatars3.githubusercontent.com/u/4086403?s=100&v=4" title="46 commits" width="50px" /></a>
 <a href="https://github.com/deresz"><img src="https://avatars3.githubusercontent.com/u/2729811?s=100&v=4" title="31 commits" width="50px" /></a>
 <a href="https://github.com/cristianbell"><img src="https://avatars2.githubusercontent.com/u/13049554?s=100&v=4" title="29 commits" width="50px" /></a>
@@ -160,6 +160,7 @@
 <a href="https://github.com/plutec"><img src="https://avatars2.githubusercontent.com/u/444620?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/TheDr1ver"><img src="https://avatars3.githubusercontent.com/u/6147794?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/grolinet"><img src="https://avatars3.githubusercontent.com/u/14868599?s=100&v=4" title="2 commits" width="50px" /></a>
+<a href="https://github.com/JakubOnderka"><img src="https://avatars3.githubusercontent.com/u/163343?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/ninoseki"><img src="https://avatars3.githubusercontent.com/u/291028?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/Shortfinga"><img src="https://avatars2.githubusercontent.com/u/5101414?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/ancailliau"><img src="https://avatars1.githubusercontent.com/u/28399?s=100&v=4" title="1 commits" width="50px" /></a>
