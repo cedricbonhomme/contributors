@@ -124,7 +124,7 @@
 ### [PyMISP](https://github.com/MISP/PyMISP)
 
 <!-- contributors-PyMISP starts -->
-<a href="https://github.com/Rafiot"><img src="https://avatars1.githubusercontent.com/u/248875?s=100&v=4" title="1205 commits" width="50px" /></a>
+<a href="https://github.com/Rafiot"><img src="https://avatars1.githubusercontent.com/u/248875?s=100&v=4" title="1206 commits" width="50px" /></a>
 <a href="https://github.com/adulau"><img src="https://avatars2.githubusercontent.com/u/3309?s=100&v=4" title="101 commits" width="50px" /></a>
 <a href="https://github.com/Delta-Sierra"><img src="https://avatars2.githubusercontent.com/u/17081497?s=100&v=4" title="51 commits" width="50px" /></a>
 <a href="https://github.com/VincentFalc"><img src="https://avatars1.githubusercontent.com/u/39620263?s=100&v=4" title="31 commits" width="50px" /></a>
@@ -143,8 +143,8 @@
 <a href="https://github.com/wagner-certat"><img src="https://avatars1.githubusercontent.com/u/25031221?s=100&v=4" title="6 commits" width="50px" /></a>
 <a href="https://github.com/nbareil"><img src="https://avatars2.githubusercontent.com/u/115087?s=100&v=4" title="5 commits" width="50px" /></a>
 <a href="https://github.com/jaegeral"><img src="https://avatars0.githubusercontent.com/u/741037?s=100&v=4" title="5 commits" width="50px" /></a>
+<a href="https://github.com/paalbra"><img src="https://avatars1.githubusercontent.com/u/265215?s=100&v=4" title="4 commits" width="50px" /></a>
 <a href="https://github.com/sthagen"><img src="https://avatars2.githubusercontent.com/u/450800?s=100&v=4" title="4 commits" width="50px" /></a>
-<a href="https://github.com/paalbra"><img src="https://avatars1.githubusercontent.com/u/265215?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/turtlefac3"><img src="https://avatars3.githubusercontent.com/u/55850580?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/chrisr3d"><img src="https://avatars2.githubusercontent.com/u/16307976?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/sim0nx"><img src="https://avatars0.githubusercontent.com/u/1769773?s=100&v=4" title="3 commits" width="50px" /></a>
