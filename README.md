@@ -8,7 +8,7 @@
 <a href="https://github.com/iglocska"><img src="https://avatars1.githubusercontent.com/u/3668672?s=100&v=4" title="6612 commits" width="50px" /></a>
 <a href="https://github.com/chrisr3d"><img src="https://avatars2.githubusercontent.com/u/16307976?s=100&v=4" title="1734 commits" width="50px" /></a>
 <a href="https://github.com/mokaddem"><img src="https://avatars3.githubusercontent.com/u/6977223?s=100&v=4" title="1479 commits" width="50px" /></a>
-<a href="https://github.com/adulau"><img src="https://avatars2.githubusercontent.com/u/3309?s=100&v=4" title="806 commits" width="50px" /></a>
+<a href="https://github.com/adulau"><img src="https://avatars2.githubusercontent.com/u/3309?s=100&v=4" title="811 commits" width="50px" /></a>
 <a href="https://github.com/SteveClement"><img src="https://avatars3.githubusercontent.com/u/362025?s=100&v=4" title="763 commits" width="50px" /></a>
 <a href="https://github.com/noud"><img src="https://avatars2.githubusercontent.com/u/1333629?s=100&v=4" title="423 commits" width="50px" /></a>
 <a href="https://github.com/cvandeplas"><img src="https://avatars0.githubusercontent.com/u/1073662?s=100&v=4" title="415 commits" width="50px" /></a>
@@ -216,7 +216,7 @@
 ### [Stegano](https://sr.ht/~cedric/stegano)
 
 <!-- contributors-stegano starts -->
-<a href="https://github.com/cedricbonhomme"><img src="https://avatars1.githubusercontent.com/u/465400?s=100&v=4" title="316 commits" width="50px" /></a>
+<a href="https://github.com/cedricbonhomme"><img src="https://avatars1.githubusercontent.com/u/465400?s=100&v=4" title="319 commits" width="50px" /></a>
 <a href="https://github.com/AdrienCos"><img src="https://avatars1.githubusercontent.com/u/25573947?s=100&v=4" title="12 commits" width="50px" /></a>
 <a href="https://github.com/maxwellgerber"><img src="https://avatars3.githubusercontent.com/u/11035210?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/andyroberts"><img src="https://avatars2.githubusercontent.com/u/831044?s=100&v=4" title="3 commits" width="50px" /></a>
