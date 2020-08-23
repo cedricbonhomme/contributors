@@ -32,12 +32,12 @@
 <a href="https://github.com/pettai"><img src="https://avatars3.githubusercontent.com/u/3317462?s=100&v=4" title="13 commits" width="50px" /></a>
 <a href="https://github.com/aaronkaplan"><img src="https://avatars3.githubusercontent.com/u/750019?s=100&v=4" title="13 commits" width="50px" /></a>
 <a href="https://github.com/devnull-"><img src="https://avatars2.githubusercontent.com/u/9305238?s=100&v=4" title="12 commits" width="50px" /></a>
+<a href="https://github.com/cudeso"><img src="https://avatars3.githubusercontent.com/u/256028?s=100&v=4" title="11 commits" width="50px" /></a>
 <a href="https://github.com/tomking2"><img src="https://avatars0.githubusercontent.com/u/15731689?s=100&v=4" title="11 commits" width="50px" /></a>
 <a href="https://github.com/Aks6193"><img src="https://avatars2.githubusercontent.com/u/25454459?s=100&v=4" title="11 commits" width="50px" /></a>
 <a href="https://github.com/jaegeral"><img src="https://avatars0.githubusercontent.com/u/741037?s=100&v=4" title="11 commits" width="50px" /></a>
 <a href="https://github.com/Xen0ph0n"><img src="https://avatars2.githubusercontent.com/u/2313682?s=100&v=4" title="11 commits" width="50px" /></a>
 <a href="https://github.com/ppanero"><img src="https://avatars0.githubusercontent.com/u/6756943?s=100&v=4" title="9 commits" width="50px" /></a>
-<a href="https://github.com/cudeso"><img src="https://avatars3.githubusercontent.com/u/256028?s=100&v=4" title="8 commits" width="50px" /></a>
 <a href="https://github.com/kallix"><img src="https://avatars0.githubusercontent.com/u/5512987?s=100&v=4" title="8 commits" width="50px" /></a>
 <a href="https://github.com/deloittem"><img src="https://avatars3.githubusercontent.com/u/14250017?s=100&v=4" title="8 commits" width="50px" /></a>
 <a href="https://github.com/I-am-Sherlocked"><img src="https://avatars3.githubusercontent.com/u/10660968?s=100&v=4" title="8 commits" width="50px" /></a>
