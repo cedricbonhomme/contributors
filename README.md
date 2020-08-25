@@ -201,7 +201,6 @@
 <a href="https://github.com/thomas-netlor"><img src="https://avatars3.githubusercontent.com/u/4964617?s=100&v=4" title="47 commits" width="50px" /></a>
 <a href="https://github.com/jfrocha"><img src="https://avatars0.githubusercontent.com/u/2930955?s=100&v=4" title="38 commits" width="50px" /></a>
 <a href="https://github.com/ppaulis"><img src="https://avatars3.githubusercontent.com/u/1609503?s=100&v=4" title="19 commits" width="50px" /></a>
-<a href="https://github.com/dealmeida"><img src="https://avatars3.githubusercontent.com/u/2202206?s=100&v=4" title="11 commits" width="50px" /></a>
 <a href="https://github.com/cyrilrouyer"><img src="https://avatars1.githubusercontent.com/u/23081586?s=100&v=4" title="8 commits" width="50px" /></a>
 <a href="https://github.com/jerolomb"><img src="https://avatars1.githubusercontent.com/u/18661517?s=100&v=4" title="7 commits" width="50px" /></a>
 <a href="https://github.com/cheah96"><img src="https://avatars2.githubusercontent.com/u/37674123?s=100&v=4" title="3 commits" width="50px" /></a>
@@ -264,7 +263,7 @@
 ### [AIL-framework](https://github.com/CIRCL/AIL-framework)
 
 <!-- contributors-AIL-framework starts -->
-<a href="https://github.com/Terrtia"><img src="https://avatars2.githubusercontent.com/u/8857208?s=100&v=4" title="841 commits" width="50px" /></a>
+<a href="https://github.com/Terrtia"><img src="https://avatars2.githubusercontent.com/u/8857208?s=100&v=4" title="842 commits" width="50px" /></a>
 <a href="https://github.com/mokaddem"><img src="https://avatars3.githubusercontent.com/u/6977223?s=100&v=4" title="439 commits" width="50px" /></a>
 <a href="https://github.com/adulau"><img src="https://avatars2.githubusercontent.com/u/3309?s=100&v=4" title="132 commits" width="50px" /></a>
 <a href="https://github.com/Rafiot"><img src="https://avatars1.githubusercontent.com/u/248875?s=100&v=4" title="81 commits" width="50px" /></a>
