@@ -83,6 +83,7 @@
 <a href="https://github.com/kirzaks"><img src="https://avatars0.githubusercontent.com/u/17720113?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/abulhol"><img src="https://avatars1.githubusercontent.com/u/4851778?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/molnarg"><img src="https://avatars1.githubusercontent.com/u/894421?s=100&v=4" title="2 commits" width="50px" /></a>
+<a href="https://github.com/jtdroste"><img src="https://avatars1.githubusercontent.com/u/734161?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/legoguy1000"><img src="https://avatars2.githubusercontent.com/u/13125104?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/imidoriya"><img src="https://avatars2.githubusercontent.com/u/45568592?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/vaclavbartos"><img src="https://avatars0.githubusercontent.com/u/14043164?s=100&v=4" title="1 commits" width="50px" /></a>
