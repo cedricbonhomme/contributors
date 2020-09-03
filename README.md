@@ -7,8 +7,8 @@
 <!-- contributors-MISP starts -->
 <a href="https://github.com/iglocska"><img src="https://avatars1.githubusercontent.com/u/3668672?s=100&v=4" title="6621 commits" width="50px" /></a>
 <a href="https://github.com/chrisr3d"><img src="https://avatars2.githubusercontent.com/u/16307976?s=100&v=4" title="1748 commits" width="50px" /></a>
-<a href="https://github.com/mokaddem"><img src="https://avatars3.githubusercontent.com/u/6977223?s=100&v=4" title="1486 commits" width="50px" /></a>
-<a href="https://github.com/adulau"><img src="https://avatars2.githubusercontent.com/u/3309?s=100&v=4" title="817 commits" width="50px" /></a>
+<a href="https://github.com/mokaddem"><img src="https://avatars3.githubusercontent.com/u/6977223?s=100&v=4" title="1496 commits" width="50px" /></a>
+<a href="https://github.com/adulau"><img src="https://avatars2.githubusercontent.com/u/3309?s=100&v=4" title="819 commits" width="50px" /></a>
 <a href="https://github.com/SteveClement"><img src="https://avatars3.githubusercontent.com/u/362025?s=100&v=4" title="764 commits" width="50px" /></a>
 <a href="https://github.com/noud"><img src="https://avatars2.githubusercontent.com/u/1333629?s=100&v=4" title="423 commits" width="50px" /></a>
 <a href="https://github.com/cvandeplas"><img src="https://avatars0.githubusercontent.com/u/1073662?s=100&v=4" title="415 commits" width="50px" /></a>
@@ -264,7 +264,7 @@
 ### [AIL-framework](https://github.com/CIRCL/AIL-framework)
 
 <!-- contributors-AIL-framework starts -->
-<a href="https://github.com/Terrtia"><img src="https://avatars2.githubusercontent.com/u/8857208?s=100&v=4" title="845 commits" width="50px" /></a>
+<a href="https://github.com/Terrtia"><img src="https://avatars2.githubusercontent.com/u/8857208?s=100&v=4" title="848 commits" width="50px" /></a>
 <a href="https://github.com/mokaddem"><img src="https://avatars3.githubusercontent.com/u/6977223?s=100&v=4" title="439 commits" width="50px" /></a>
 <a href="https://github.com/adulau"><img src="https://avatars2.githubusercontent.com/u/3309?s=100&v=4" title="132 commits" width="50px" /></a>
 <a href="https://github.com/Rafiot"><img src="https://avatars1.githubusercontent.com/u/248875?s=100&v=4" title="81 commits" width="50px" /></a>
@@ -284,6 +284,7 @@
 <a href="https://github.com/petmi627"><img src="https://avatars0.githubusercontent.com/u/26305009?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/drnguyen"><img src="https://avatars0.githubusercontent.com/u/15685704?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/rommelfs"><img src="https://avatars3.githubusercontent.com/u/274748?s=100&v=4" title="2 commits" width="50px" /></a>
+<a href="https://github.com/gallypette"><img src="https://avatars1.githubusercontent.com/u/329725?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/ronaldtf"><img src="https://avatars2.githubusercontent.com/u/10974337?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/mangelft"><img src="https://avatars0.githubusercontent.com/u/35041797?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/swedishmike"><img src="https://avatars1.githubusercontent.com/u/8100625?s=100&v=4" title="1 commits" width="50px" /></a>
