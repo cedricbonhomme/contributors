@@ -6,7 +6,7 @@
 
 <!-- contributors-MISP starts -->
 <a href="https://github.com/iglocska"><img src="https://avatars1.githubusercontent.com/u/3668672?s=100&v=4" title="6681 commits" width="50px" /></a>
-<a href="https://github.com/chrisr3d"><img src="https://avatars2.githubusercontent.com/u/16307976?s=100&v=4" title="1753 commits" width="50px" /></a>
+<a href="https://github.com/chrisr3d"><img src="https://avatars2.githubusercontent.com/u/16307976?s=100&v=4" title="1758 commits" width="50px" /></a>
 <a href="https://github.com/mokaddem"><img src="https://avatars3.githubusercontent.com/u/6977223?s=100&v=4" title="1693 commits" width="50px" /></a>
 <a href="https://github.com/adulau"><img src="https://avatars2.githubusercontent.com/u/3309?s=100&v=4" title="855 commits" width="50px" /></a>
 <a href="https://github.com/SteveClement"><img src="https://avatars3.githubusercontent.com/u/362025?s=100&v=4" title="764 commits" width="50px" /></a>
