@@ -155,6 +155,7 @@
 <a href="https://github.com/bernhl"><img src="https://avatars3.githubusercontent.com/u/15350042?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/rmarsollier"><img src="https://avatars3.githubusercontent.com/u/16244397?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/jbremer"><img src="https://avatars3.githubusercontent.com/u/1148773?s=100&v=4" title="3 commits" width="50px" /></a>
+<a href="https://github.com/JakubOnderka"><img src="https://avatars3.githubusercontent.com/u/163343?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/garanews"><img src="https://avatars1.githubusercontent.com/u/16938405?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/kovacsbalu"><img src="https://avatars2.githubusercontent.com/u/3726055?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/cipherlock"><img src="https://avatars3.githubusercontent.com/u/33454995?s=100&v=4" title="2 commits" width="50px" /></a>
@@ -167,7 +168,6 @@
 <a href="https://github.com/chrisinmtown"><img src="https://avatars0.githubusercontent.com/u/10234212?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/seamustuohy"><img src="https://avatars2.githubusercontent.com/u/1226247?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/imidoriya"><img src="https://avatars2.githubusercontent.com/u/45568592?s=100&v=4" title="1 commits" width="50px" /></a>
-<a href="https://github.com/JakubOnderka"><img src="https://avatars3.githubusercontent.com/u/163343?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/ninoseki"><img src="https://avatars3.githubusercontent.com/u/291028?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/Shortfinga"><img src="https://avatars2.githubusercontent.com/u/5101414?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/ancailliau"><img src="https://avatars1.githubusercontent.com/u/28399?s=100&v=4" title="1 commits" width="50px" /></a>
