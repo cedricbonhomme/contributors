@@ -5,7 +5,7 @@
 ### [MISP](https://github.com/MISP/MISP)
 
 <!-- contributors-MISP starts -->
-<a href="https://github.com/iglocska"><img src="https://avatars1.githubusercontent.com/u/3668672?s=100&v=4" title="6691 commits" width="50px" /></a>
+<a href="https://github.com/iglocska"><img src="https://avatars1.githubusercontent.com/u/3668672?s=100&v=4" title="6694 commits" width="50px" /></a>
 <a href="https://github.com/chrisr3d"><img src="https://avatars2.githubusercontent.com/u/16307976?s=100&v=4" title="1763 commits" width="50px" /></a>
 <a href="https://github.com/mokaddem"><img src="https://avatars3.githubusercontent.com/u/6977223?s=100&v=4" title="1730 commits" width="50px" /></a>
 <a href="https://github.com/adulau"><img src="https://avatars2.githubusercontent.com/u/3309?s=100&v=4" title="863 commits" width="50px" /></a>
