@@ -200,11 +200,11 @@
 ### [MONARC](https://github.com/monarc-project/MonarcAppFO)
 
 <!-- contributors-MonarcAppFO starts -->
-<a href="https://github.com/cedricbonhomme"><img src="https://avatars1.githubusercontent.com/u/465400?s=100&v=4" title="299 commits" width="50px" /></a>
-<a href="https://github.com/ruslanbaidan"><img src="https://avatars2.githubusercontent.com/u/3246171?s=100&v=4" title="83 commits" width="50px" /></a>
+<a href="https://github.com/cedricbonhomme"><img src="https://avatars1.githubusercontent.com/u/465400?s=100&v=4" title="314 commits" width="50px" /></a>
+<a href="https://github.com/ruslanbaidan"><img src="https://avatars2.githubusercontent.com/u/3246171?s=100&v=4" title="135 commits" width="50px" /></a>
 <a href="https://github.com/xplodwild"><img src="https://avatars3.githubusercontent.com/u/1205428?s=100&v=4" title="54 commits" width="50px" /></a>
 <a href="https://github.com/thomas-netlor"><img src="https://avatars3.githubusercontent.com/u/4964617?s=100&v=4" title="47 commits" width="50px" /></a>
-<a href="https://github.com/jfrocha"><img src="https://avatars0.githubusercontent.com/u/2930955?s=100&v=4" title="38 commits" width="50px" /></a>
+<a href="https://github.com/jfrocha"><img src="https://avatars0.githubusercontent.com/u/2930955?s=100&v=4" title="40 commits" width="50px" /></a>
 <a href="https://github.com/ppaulis"><img src="https://avatars3.githubusercontent.com/u/1609503?s=100&v=4" title="19 commits" width="50px" /></a>
 <a href="https://github.com/cyrilrouyer"><img src="https://avatars1.githubusercontent.com/u/23081586?s=100&v=4" title="8 commits" width="50px" /></a>
 <a href="https://github.com/jerolomb"><img src="https://avatars1.githubusercontent.com/u/18661517?s=100&v=4" title="7 commits" width="50px" /></a>
