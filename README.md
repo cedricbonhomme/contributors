@@ -5,8 +5,8 @@
 ### [MISP](https://github.com/MISP/MISP)
 
 <!-- contributors-MISP starts -->
-<a href="https://github.com/iglocska"><img src="https://avatars1.githubusercontent.com/u/3668672?s=100&v=4" title="6759 commits" width="50px" /></a>
-<a href="https://github.com/mokaddem"><img src="https://avatars3.githubusercontent.com/u/6977223?s=100&v=4" title="2130 commits" width="50px" /></a>
+<a href="https://github.com/iglocska"><img src="https://avatars1.githubusercontent.com/u/3668672?s=100&v=4" title="6761 commits" width="50px" /></a>
+<a href="https://github.com/mokaddem"><img src="https://avatars3.githubusercontent.com/u/6977223?s=100&v=4" title="2134 commits" width="50px" /></a>
 <a href="https://github.com/chrisr3d"><img src="https://avatars2.githubusercontent.com/u/16307976?s=100&v=4" title="1763 commits" width="50px" /></a>
 <a href="https://github.com/adulau"><img src="https://avatars2.githubusercontent.com/u/3309?s=100&v=4" title="872 commits" width="50px" /></a>
 <a href="https://github.com/SteveClement"><img src="https://avatars3.githubusercontent.com/u/362025?s=100&v=4" title="775 commits" width="50px" /></a>
@@ -127,7 +127,7 @@
 ### [PyMISP](https://github.com/MISP/PyMISP)
 
 <!-- contributors-PyMISP starts -->
-<a href="https://github.com/Rafiot"><img src="https://avatars1.githubusercontent.com/u/248875?s=100&v=4" title="1301 commits" width="50px" /></a>
+<a href="https://github.com/Rafiot"><img src="https://avatars1.githubusercontent.com/u/248875?s=100&v=4" title="1302 commits" width="50px" /></a>
 <a href="https://github.com/adulau"><img src="https://avatars2.githubusercontent.com/u/3309?s=100&v=4" title="121 commits" width="50px" /></a>
 <a href="https://github.com/Delta-Sierra"><img src="https://avatars2.githubusercontent.com/u/17081497?s=100&v=4" title="51 commits" width="50px" /></a>
 <a href="https://github.com/mokaddem"><img src="https://avatars3.githubusercontent.com/u/6977223?s=100&v=4" title="31 commits" width="50px" /></a>
