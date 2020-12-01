@@ -127,7 +127,7 @@
 ### [PyMISP](https://github.com/MISP/PyMISP)
 
 <!-- contributors-PyMISP starts -->
-<a href="https://github.com/Rafiot"><img src="https://avatars1.githubusercontent.com/u/248875?s=100&v=4" title="1308 commits" width="50px" /></a>
+<a href="https://github.com/Rafiot"><img src="https://avatars1.githubusercontent.com/u/248875?s=100&v=4" title="1311 commits" width="50px" /></a>
 <a href="https://github.com/adulau"><img src="https://avatars2.githubusercontent.com/u/3309?s=100&v=4" title="121 commits" width="50px" /></a>
 <a href="https://github.com/Delta-Sierra"><img src="https://avatars2.githubusercontent.com/u/17081497?s=100&v=4" title="51 commits" width="50px" /></a>
 <a href="https://github.com/mokaddem"><img src="https://avatars3.githubusercontent.com/u/6977223?s=100&v=4" title="31 commits" width="50px" /></a>
@@ -169,6 +169,7 @@
 <a href="https://github.com/plutec"><img src="https://avatars2.githubusercontent.com/u/444620?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/TheDr1ver"><img src="https://avatars3.githubusercontent.com/u/6147794?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/grolinet"><img src="https://avatars3.githubusercontent.com/u/14868599?s=100&v=4" title="2 commits" width="50px" /></a>
+<a href="https://github.com/nighttardis"><img src="https://avatars0.githubusercontent.com/u/12703968?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/kuselfu"><img src="https://avatars0.githubusercontent.com/u/72789379?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/pudo"><img src="https://avatars2.githubusercontent.com/u/41628?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/seamustuohy"><img src="https://avatars2.githubusercontent.com/u/1226247?s=100&v=4" title="1 commits" width="50px" /></a>
@@ -204,7 +205,7 @@
 
 <!-- contributors-MonarcAppFO starts -->
 <a href="https://github.com/cedricbonhomme"><img src="https://avatars1.githubusercontent.com/u/465400?s=100&v=4" title="314 commits" width="50px" /></a>
-<a href="https://github.com/ruslanbaidan"><img src="https://avatars2.githubusercontent.com/u/3246171?s=100&v=4" title="139 commits" width="50px" /></a>
+<a href="https://github.com/ruslanbaidan"><img src="https://avatars2.githubusercontent.com/u/3246171?s=100&v=4" title="140 commits" width="50px" /></a>
 <a href="https://github.com/xplodwild"><img src="https://avatars3.githubusercontent.com/u/1205428?s=100&v=4" title="54 commits" width="50px" /></a>
 <a href="https://github.com/thomas-netlor"><img src="https://avatars3.githubusercontent.com/u/4964617?s=100&v=4" title="47 commits" width="50px" /></a>
 <a href="https://github.com/jfrocha"><img src="https://avatars0.githubusercontent.com/u/2930955?s=100&v=4" title="40 commits" width="50px" /></a>
