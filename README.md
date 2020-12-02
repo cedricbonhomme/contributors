@@ -162,6 +162,7 @@
 <a href="https://github.com/chrisinmtown"><img src="https://avatars0.githubusercontent.com/u/10234212?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/garanews"><img src="https://avatars1.githubusercontent.com/u/16938405?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/kovacsbalu"><img src="https://avatars2.githubusercontent.com/u/3726055?s=100&v=4" title="2 commits" width="50px" /></a>
+<a href="https://github.com/t3llf1r"><img src="https://avatars2.githubusercontent.com/u/75361572?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/cipherlock"><img src="https://avatars3.githubusercontent.com/u/33454995?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/aparriel"><img src="https://avatars3.githubusercontent.com/u/28621435?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/PaulSec"><img src="https://avatars1.githubusercontent.com/u/4060683?s=100&v=4" title="2 commits" width="50px" /></a>
@@ -239,7 +240,7 @@
 <!-- contributors-cve-search starts -->
 <a href="https://github.com/PidgeyL"><img src="https://avatars2.githubusercontent.com/u/8830839?s=100&v=4" title="731 commits" width="50px" /></a>
 <a href="https://github.com/adulau"><img src="https://avatars2.githubusercontent.com/u/3309?s=100&v=4" title="582 commits" width="50px" /></a>
-<a href="https://github.com/P-T-I"><img src="https://avatars0.githubusercontent.com/u/11720165?s=100&v=4" title="280 commits" width="50px" /></a>
+<a href="https://github.com/P-T-I"><img src="https://avatars0.githubusercontent.com/u/11720165?s=100&v=4" title="284 commits" width="50px" /></a>
 <a href="https://github.com/mdeous"><img src="https://avatars2.githubusercontent.com/u/393165?s=100&v=4" title="20 commits" width="50px" /></a>
 <a href="https://github.com/wimremes"><img src="https://avatars1.githubusercontent.com/u/1710311?s=100&v=4" title="20 commits" width="50px" /></a>
 <a href="https://github.com/psychedelys"><img src="https://avatars3.githubusercontent.com/u/1389006?s=100&v=4" title="18 commits" width="50px" /></a>
