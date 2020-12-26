@@ -55,6 +55,7 @@
 <a href="https://github.com/0xiso"><img src="https://avatars1.githubusercontent.com/u/6024009?s=100&v=4" title="4 commits" width="50px" /></a>
 <a href="https://github.com/3c7"><img src="https://avatars3.githubusercontent.com/u/2846609?s=100&v=4" title="4 commits" width="50px" /></a>
 <a href="https://github.com/truckydev"><img src="https://avatars3.githubusercontent.com/u/17462115?s=100&v=4" title="4 commits" width="50px" /></a>
+<a href="https://github.com/legoguy1000"><img src="https://avatars2.githubusercontent.com/u/13125104?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/gallypette"><img src="https://avatars1.githubusercontent.com/u/329725?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/liviuvalsan"><img src="https://avatars3.githubusercontent.com/u/20833632?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/chkp-aliaksandrt"><img src="https://avatars3.githubusercontent.com/u/37109189?s=100&v=4" title="3 commits" width="50px" /></a>
@@ -70,7 +71,6 @@
 <a href="https://github.com/squioc"><img src="https://avatars3.githubusercontent.com/u/280824?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/birdy42"><img src="https://avatars2.githubusercontent.com/u/825492?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/wllm-rbnt"><img src="https://avatars0.githubusercontent.com/u/11647900?s=100&v=4" title="3 commits" width="50px" /></a>
-<a href="https://github.com/legoguy1000"><img src="https://avatars2.githubusercontent.com/u/13125104?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/Wachizungu"><img src="https://avatars3.githubusercontent.com/u/9868873?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/imidoriya"><img src="https://avatars2.githubusercontent.com/u/45568592?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/raw-data"><img src="https://avatars3.githubusercontent.com/u/29753218?s=100&v=4" title="2 commits" width="50px" /></a>
