@@ -85,7 +85,6 @@
 <a href="https://github.com/treyka"><img src="https://avatars0.githubusercontent.com/u/630301?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/kirzaks"><img src="https://avatars0.githubusercontent.com/u/17720113?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/abulhol"><img src="https://avatars1.githubusercontent.com/u/4851778?s=100&v=4" title="2 commits" width="50px" /></a>
-<a href="https://github.com/molnarg"><img src="https://avatars1.githubusercontent.com/u/894421?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/folbricht-stripe"><img src="https://avatars0.githubusercontent.com/u/74916780?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/korrosivesec"><img src="https://avatars1.githubusercontent.com/u/1944268?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/jtdroste"><img src="https://avatars1.githubusercontent.com/u/734161?s=100&v=4" title="1 commits" width="50px" /></a>
