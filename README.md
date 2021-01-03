@@ -149,6 +149,7 @@
 <a href="https://github.com/jaegeral"><img src="https://avatars0.githubusercontent.com/u/741037?s=100&v=4" title="5 commits" width="50px" /></a>
 <a href="https://github.com/paalbra"><img src="https://avatars1.githubusercontent.com/u/265215?s=100&v=4" title="4 commits" width="50px" /></a>
 <a href="https://github.com/sthagen"><img src="https://avatars2.githubusercontent.com/u/450800?s=100&v=4" title="4 commits" width="50px" /></a>
+<a href="https://github.com/seamustuohy"><img src="https://avatars2.githubusercontent.com/u/1226247?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/turtlefac3"><img src="https://avatars3.githubusercontent.com/u/55850580?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/chrisr3d"><img src="https://avatars2.githubusercontent.com/u/16307976?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/sim0nx"><img src="https://avatars0.githubusercontent.com/u/1769773?s=100&v=4" title="3 commits" width="50px" /></a>
@@ -173,7 +174,6 @@
 <a href="https://github.com/nighttardis"><img src="https://avatars0.githubusercontent.com/u/12703968?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/kuselfu"><img src="https://avatars0.githubusercontent.com/u/72789379?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/pudo"><img src="https://avatars2.githubusercontent.com/u/41628?s=100&v=4" title="1 commits" width="50px" /></a>
-<a href="https://github.com/seamustuohy"><img src="https://avatars2.githubusercontent.com/u/1226247?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/imidoriya"><img src="https://avatars2.githubusercontent.com/u/45568592?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/ninoseki"><img src="https://avatars3.githubusercontent.com/u/291028?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/Shortfinga"><img src="https://avatars2.githubusercontent.com/u/5101414?s=100&v=4" title="1 commits" width="50px" /></a>
