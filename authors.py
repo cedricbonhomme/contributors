@@ -109,6 +109,7 @@ if __name__ == "__main__":
         ("MISP", "MISP"),
         ("MISP", "PyMISP"),
         ("monarc-project", "MonarcAppFO"),
+        ("monarc-project", "stats-service"),
         ("cedricbonhomme", "stegano"),
         ("cedricbonhomme", "freshermeat"),
         ("cedricbonhomme", "newspipe"),
