@@ -110,6 +110,8 @@ if __name__ == "__main__":
         ("MISP", "PyMISP"),
         ("monarc-project", "MonarcAppFO"),
         ("cedricbonhomme", "stegano"),
+        ("cedricbonhomme", "freshermeat"),
+        ("cedricbonhomme", "newspipe"),
         ("CIRCL", "AIL-framework"),
         ("CASES-LU", "Fit4Cybersecurity"),
         ("cve-search", "cve-search")

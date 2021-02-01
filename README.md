@@ -2,6 +2,20 @@
 
 ## Contributors
 
+### [Freshermeat](https://sr.ht/~cedric/freshermeat)
+
+<!-- contributors-freshermeat starts -->
+
+<!-- contributors-freshermeat ends -->
+
+
+### [Newspipe](https://sr.ht/~cedric/newspipe)
+
+<!-- contributors-newspipe starts -->
+
+<!-- contributors-newspipe ends -->
+
+
 ### [MISP](https://github.com/MISP/MISP)
 
 <!-- contributors-MISP starts -->
