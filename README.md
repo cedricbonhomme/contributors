@@ -40,6 +40,7 @@
 <a href="https://github.com/zaphodef"><img src="https://avatars.githubusercontent.com/u/18658828?s=100&v=4" title="26 commits" width="50px" /></a>
 <a href="https://github.com/sfossen"><img src="https://avatars.githubusercontent.com/u/26934?s=100&v=4" title="24 commits" width="50px" /></a>
 <a href="https://github.com/elhoim"><img src="https://avatars.githubusercontent.com/u/178521?s=100&v=4" title="18 commits" width="50px" /></a>
+<a href="https://github.com/stricaud"><img src="https://avatars.githubusercontent.com/u/956069?s=100&v=4" title="17 commits" width="50px" /></a>
 <a href="https://github.com/cedricbonhomme"><img src="https://avatars.githubusercontent.com/u/465400?s=100&v=4" title="16 commits" width="50px" /></a>
 <a href="https://github.com/pettai"><img src="https://avatars.githubusercontent.com/u/3317462?s=100&v=4" title="15 commits" width="50px" /></a>
 <a href="https://github.com/obert01"><img src="https://avatars.githubusercontent.com/u/6752874?s=100&v=4" title="15 commits" width="50px" /></a>
