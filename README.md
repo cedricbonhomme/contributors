@@ -251,7 +251,7 @@
 ### [Stegano](https://sr.ht/~cedric/stegano)
 
 <!-- contributors-stegano starts -->
-<a href="https://github.com/cedricbonhomme"><img src="https://avatars.githubusercontent.com/u/465400?s=100&v=4" title="319 commits" width="50px" /></a>
+<a href="https://github.com/cedricbonhomme"><img src="https://avatars.githubusercontent.com/u/465400?s=100&v=4" title="320 commits" width="50px" /></a>
 <a href="https://github.com/AdrienCos"><img src="https://avatars.githubusercontent.com/u/25573947?s=100&v=4" title="12 commits" width="50px" /></a>
 <a href="https://github.com/maxwellgerber"><img src="https://avatars.githubusercontent.com/u/11035210?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/andyroberts"><img src="https://avatars.githubusercontent.com/u/831044?s=100&v=4" title="3 commits" width="50px" /></a>
