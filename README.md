@@ -24,7 +24,7 @@
 <a href="https://github.com/iglocska"><img src="https://avatars.githubusercontent.com/u/3668672?s=100&v=4" title="6830 commits" width="50px" /></a>
 <a href="https://github.com/mokaddem"><img src="https://avatars.githubusercontent.com/u/6977223?s=100&v=4" title="2149 commits" width="50px" /></a>
 <a href="https://github.com/chrisr3d"><img src="https://avatars.githubusercontent.com/u/16307976?s=100&v=4" title="1765 commits" width="50px" /></a>
-<a href="https://github.com/adulau"><img src="https://avatars.githubusercontent.com/u/3309?s=100&v=4" title="925 commits" width="50px" /></a>
+<a href="https://github.com/adulau"><img src="https://avatars.githubusercontent.com/u/3309?s=100&v=4" title="926 commits" width="50px" /></a>
 <a href="https://github.com/JakubOnderka"><img src="https://avatars.githubusercontent.com/u/163343?s=100&v=4" title="907 commits" width="50px" /></a>
 <a href="https://github.com/SteveClement"><img src="https://avatars.githubusercontent.com/u/362025?s=100&v=4" title="812 commits" width="50px" /></a>
 <a href="https://github.com/noud"><img src="https://avatars.githubusercontent.com/u/1333629?s=100&v=4" title="423 commits" width="50px" /></a>
