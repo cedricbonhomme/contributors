@@ -5,7 +5,7 @@
 ### [Freshermeat](https://sr.ht/~cedric/freshermeat)
 
 <!-- contributors-freshermeat starts -->
-<a href="https://github.com/cedricbonhomme"><img src="https://avatars.githubusercontent.com/u/465400?s=100&v=4" title="660 commits" width="50px" /></a>
+<a href="https://github.com/cedricbonhomme"><img src="https://avatars.githubusercontent.com/u/465400?s=100&v=4" title="662 commits" width="50px" /></a>
 <!-- contributors-freshermeat ends -->
 
 
