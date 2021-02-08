@@ -21,15 +21,15 @@
 ### [MISP](https://github.com/MISP/MISP)
 
 <!-- contributors-MISP starts -->
-<a href="https://github.com/iglocska"><img src="https://avatars.githubusercontent.com/u/3668672?s=100&v=4" title="6830 commits" width="50px" /></a>
-<a href="https://github.com/mokaddem"><img src="https://avatars.githubusercontent.com/u/6977223?s=100&v=4" title="2149 commits" width="50px" /></a>
-<a href="https://github.com/chrisr3d"><img src="https://avatars.githubusercontent.com/u/16307976?s=100&v=4" title="1766 commits" width="50px" /></a>
-<a href="https://github.com/adulau"><img src="https://avatars.githubusercontent.com/u/3309?s=100&v=4" title="928 commits" width="50px" /></a>
-<a href="https://github.com/JakubOnderka"><img src="https://avatars.githubusercontent.com/u/163343?s=100&v=4" title="907 commits" width="50px" /></a>
-<a href="https://github.com/SteveClement"><img src="https://avatars.githubusercontent.com/u/362025?s=100&v=4" title="812 commits" width="50px" /></a>
+<a href="https://github.com/iglocska"><img src="https://avatars.githubusercontent.com/u/3668672?s=100&v=4" title="6841 commits" width="50px" /></a>
+<a href="https://github.com/mokaddem"><img src="https://avatars.githubusercontent.com/u/6977223?s=100&v=4" title="2192 commits" width="50px" /></a>
+<a href="https://github.com/chrisr3d"><img src="https://avatars.githubusercontent.com/u/16307976?s=100&v=4" title="1767 commits" width="50px" /></a>
+<a href="https://github.com/adulau"><img src="https://avatars.githubusercontent.com/u/3309?s=100&v=4" title="935 commits" width="50px" /></a>
+<a href="https://github.com/JakubOnderka"><img src="https://avatars.githubusercontent.com/u/163343?s=100&v=4" title="931 commits" width="50px" /></a>
+<a href="https://github.com/SteveClement"><img src="https://avatars.githubusercontent.com/u/362025?s=100&v=4" title="813 commits" width="50px" /></a>
 <a href="https://github.com/noud"><img src="https://avatars.githubusercontent.com/u/1333629?s=100&v=4" title="423 commits" width="50px" /></a>
 <a href="https://github.com/cvandeplas"><img src="https://avatars.githubusercontent.com/u/1073662?s=100&v=4" title="416 commits" width="50px" /></a>
-<a href="https://github.com/Rafiot"><img src="https://avatars.githubusercontent.com/u/248875?s=100&v=4" title="355 commits" width="50px" /></a>
+<a href="https://github.com/Rafiot"><img src="https://avatars.githubusercontent.com/u/248875?s=100&v=4" title="358 commits" width="50px" /></a>
 <a href="https://github.com/rotanid"><img src="https://avatars.githubusercontent.com/u/654617?s=100&v=4" title="222 commits" width="50px" /></a>
 <a href="https://github.com/RichieB2B"><img src="https://avatars.githubusercontent.com/u/1461970?s=100&v=4" title="206 commits" width="50px" /></a>
 <a href="https://github.com/FloatingGhost"><img src="https://avatars.githubusercontent.com/u/4086403?s=100&v=4" title="46 commits" width="50px" /></a>
@@ -102,6 +102,7 @@
 <a href="https://github.com/treyka"><img src="https://avatars.githubusercontent.com/u/630301?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/kirzaks"><img src="https://avatars.githubusercontent.com/u/17720113?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/abulhol"><img src="https://avatars.githubusercontent.com/u/4851778?s=100&v=4" title="2 commits" width="50px" /></a>
+<a href="https://github.com/marjatech"><img src="https://avatars.githubusercontent.com/u/72734273?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/folbricht-stripe"><img src="https://avatars.githubusercontent.com/u/74916780?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/korrosivesec"><img src="https://avatars.githubusercontent.com/u/1944268?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/jtdroste"><img src="https://avatars.githubusercontent.com/u/734161?s=100&v=4" title="1 commits" width="50px" /></a>
