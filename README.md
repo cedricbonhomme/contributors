@@ -21,7 +21,7 @@
 ### [MISP](https://github.com/MISP/MISP)
 
 <!-- contributors-MISP starts -->
-<a href="https://github.com/iglocska"><img src="https://avatars.githubusercontent.com/u/3668672?s=100&v=4" title="6842 commits" width="50px" /></a>
+<a href="https://github.com/iglocska"><img src="https://avatars.githubusercontent.com/u/3668672?s=100&v=4" title="6844 commits" width="50px" /></a>
 <a href="https://github.com/mokaddem"><img src="https://avatars.githubusercontent.com/u/6977223?s=100&v=4" title="2193 commits" width="50px" /></a>
 <a href="https://github.com/chrisr3d"><img src="https://avatars.githubusercontent.com/u/16307976?s=100&v=4" title="1767 commits" width="50px" /></a>
 <a href="https://github.com/adulau"><img src="https://avatars.githubusercontent.com/u/3309?s=100&v=4" title="935 commits" width="50px" /></a>
@@ -243,7 +243,7 @@
 ### [Stats Service](https://github.com/monarc-project/stats-service)
 
 <!-- contributors-stats-service starts -->
-<a href="https://github.com/cedricbonhomme"><img src="https://avatars.githubusercontent.com/u/465400?s=100&v=4" title="516 commits" width="50px" /></a>
+<a href="https://github.com/cedricbonhomme"><img src="https://avatars.githubusercontent.com/u/465400?s=100&v=4" title="517 commits" width="50px" /></a>
 <a href="https://github.com/ruslanbaidan"><img src="https://avatars.githubusercontent.com/u/3246171?s=100&v=4" title="34 commits" width="50px" /></a>
 <a href="https://github.com/jfrocha"><img src="https://avatars.githubusercontent.com/u/2930955?s=100&v=4" title="3 commits" width="50px" /></a>
 <!-- contributors-stats-service ends -->
