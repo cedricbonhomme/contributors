@@ -64,6 +64,7 @@
 <a href="https://github.com/challs"><img src="https://avatars.githubusercontent.com/u/3266094?s=100&v=4" title="5 commits" width="50px" /></a>
 <a href="https://github.com/WaryWolf"><img src="https://avatars.githubusercontent.com/u/2182088?s=100&v=4" title="5 commits" width="50px" /></a>
 <a href="https://github.com/pugilist"><img src="https://avatars.githubusercontent.com/u/4551980?s=100&v=4" title="5 commits" width="50px" /></a>
+<a href="https://github.com/eCrimeLabs"><img src="https://avatars.githubusercontent.com/u/14878613?s=100&v=4" title="4 commits" width="50px" /></a>
 <a href="https://github.com/rmkml"><img src="https://avatars.githubusercontent.com/u/10365727?s=100&v=4" title="4 commits" width="50px" /></a>
 <a href="https://github.com/coolacid"><img src="https://avatars.githubusercontent.com/u/1091410?s=100&v=4" title="4 commits" width="50px" /></a>
 <a href="https://github.com/Applenice"><img src="https://avatars.githubusercontent.com/u/30207614?s=100&v=4" title="4 commits" width="50px" /></a>
@@ -72,11 +73,11 @@
 <a href="https://github.com/0xiso"><img src="https://avatars.githubusercontent.com/u/6024009?s=100&v=4" title="4 commits" width="50px" /></a>
 <a href="https://github.com/3c7"><img src="https://avatars.githubusercontent.com/u/2846609?s=100&v=4" title="4 commits" width="50px" /></a>
 <a href="https://github.com/truckydev"><img src="https://avatars.githubusercontent.com/u/17462115?s=100&v=4" title="4 commits" width="50px" /></a>
+<a href="https://github.com/Wachizungu"><img src="https://avatars.githubusercontent.com/u/9868873?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/legoguy1000"><img src="https://avatars.githubusercontent.com/u/13125104?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/gallypette"><img src="https://avatars.githubusercontent.com/u/329725?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/liviuvalsan"><img src="https://avatars.githubusercontent.com/u/20833632?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/chkp-aliaksandrt"><img src="https://avatars.githubusercontent.com/u/37109189?s=100&v=4" title="3 commits" width="50px" /></a>
-<a href="https://github.com/eCrimeLabs"><img src="https://avatars.githubusercontent.com/u/14878613?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/dawid-czarnecki"><img src="https://avatars.githubusercontent.com/u/17339154?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/Lastpixl"><img src="https://avatars.githubusercontent.com/u/123660?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/MattCarothers"><img src="https://avatars.githubusercontent.com/u/4381389?s=100&v=4" title="3 commits" width="50px" /></a>
@@ -89,7 +90,6 @@
 <a href="https://github.com/birdy42"><img src="https://avatars.githubusercontent.com/u/825492?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/wllm-rbnt"><img src="https://avatars.githubusercontent.com/u/11647900?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/marjatech"><img src="https://avatars.githubusercontent.com/u/72734273?s=100&v=4" title="2 commits" width="50px" /></a>
-<a href="https://github.com/Wachizungu"><img src="https://avatars.githubusercontent.com/u/9868873?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/imidoriya"><img src="https://avatars.githubusercontent.com/u/45568592?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/raw-data"><img src="https://avatars.githubusercontent.com/u/29753218?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/juju4"><img src="https://avatars.githubusercontent.com/u/1300844?s=100&v=4" title="2 commits" width="50px" /></a>
@@ -103,6 +103,7 @@
 <a href="https://github.com/treyka"><img src="https://avatars.githubusercontent.com/u/630301?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/kirzaks"><img src="https://avatars.githubusercontent.com/u/17720113?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/abulhol"><img src="https://avatars.githubusercontent.com/u/4851778?s=100&v=4" title="2 commits" width="50px" /></a>
+<a href="https://github.com/patriziotufarolo"><img src="https://avatars.githubusercontent.com/u/4507407?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/folbricht-stripe"><img src="https://avatars.githubusercontent.com/u/74916780?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/korrosivesec"><img src="https://avatars.githubusercontent.com/u/1944268?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/jtdroste"><img src="https://avatars.githubusercontent.com/u/734161?s=100&v=4" title="1 commits" width="50px" /></a>
