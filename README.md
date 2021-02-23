@@ -103,6 +103,7 @@
 <a href="https://github.com/treyka"><img src="https://avatars.githubusercontent.com/u/630301?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/kirzaks"><img src="https://avatars.githubusercontent.com/u/17720113?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/abulhol"><img src="https://avatars.githubusercontent.com/u/4851778?s=100&v=4" title="2 commits" width="50px" /></a>
+<a href="https://github.com/fsoderblom"><img src="https://avatars.githubusercontent.com/u/3097851?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/patriziotufarolo"><img src="https://avatars.githubusercontent.com/u/4507407?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/folbricht-stripe"><img src="https://avatars.githubusercontent.com/u/74916780?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/korrosivesec"><img src="https://avatars.githubusercontent.com/u/1944268?s=100&v=4" title="1 commits" width="50px" /></a>
