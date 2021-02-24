@@ -64,6 +64,7 @@
 <a href="https://github.com/challs"><img src="https://avatars.githubusercontent.com/u/3266094?s=100&v=4" title="5 commits" width="50px" /></a>
 <a href="https://github.com/WaryWolf"><img src="https://avatars.githubusercontent.com/u/2182088?s=100&v=4" title="5 commits" width="50px" /></a>
 <a href="https://github.com/pugilist"><img src="https://avatars.githubusercontent.com/u/4551980?s=100&v=4" title="5 commits" width="50px" /></a>
+<a href="https://github.com/Wachizungu"><img src="https://avatars.githubusercontent.com/u/9868873?s=100&v=4" title="4 commits" width="50px" /></a>
 <a href="https://github.com/eCrimeLabs"><img src="https://avatars.githubusercontent.com/u/14878613?s=100&v=4" title="4 commits" width="50px" /></a>
 <a href="https://github.com/rmkml"><img src="https://avatars.githubusercontent.com/u/10365727?s=100&v=4" title="4 commits" width="50px" /></a>
 <a href="https://github.com/coolacid"><img src="https://avatars.githubusercontent.com/u/1091410?s=100&v=4" title="4 commits" width="50px" /></a>
@@ -73,7 +74,6 @@
 <a href="https://github.com/0xiso"><img src="https://avatars.githubusercontent.com/u/6024009?s=100&v=4" title="4 commits" width="50px" /></a>
 <a href="https://github.com/3c7"><img src="https://avatars.githubusercontent.com/u/2846609?s=100&v=4" title="4 commits" width="50px" /></a>
 <a href="https://github.com/truckydev"><img src="https://avatars.githubusercontent.com/u/17462115?s=100&v=4" title="4 commits" width="50px" /></a>
-<a href="https://github.com/Wachizungu"><img src="https://avatars.githubusercontent.com/u/9868873?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/legoguy1000"><img src="https://avatars.githubusercontent.com/u/13125104?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/gallypette"><img src="https://avatars.githubusercontent.com/u/329725?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/liviuvalsan"><img src="https://avatars.githubusercontent.com/u/20833632?s=100&v=4" title="3 commits" width="50px" /></a>
@@ -226,7 +226,7 @@
 
 <!-- contributors-MonarcAppFO starts -->
 <a href="https://github.com/cedricbonhomme"><img src="https://avatars.githubusercontent.com/u/465400?s=100&v=4" title="318 commits" width="50px" /></a>
-<a href="https://github.com/ruslanbaidan"><img src="https://avatars.githubusercontent.com/u/3246171?s=100&v=4" title="143 commits" width="50px" /></a>
+<a href="https://github.com/ruslanbaidan"><img src="https://avatars.githubusercontent.com/u/3246171?s=100&v=4" title="144 commits" width="50px" /></a>
 <a href="https://github.com/xplodwild"><img src="https://avatars.githubusercontent.com/u/1205428?s=100&v=4" title="54 commits" width="50px" /></a>
 <a href="https://github.com/thomas-netlor"><img src="https://avatars.githubusercontent.com/u/4964617?s=100&v=4" title="47 commits" width="50px" /></a>
 <a href="https://github.com/jfrocha"><img src="https://avatars.githubusercontent.com/u/2930955?s=100&v=4" title="40 commits" width="50px" /></a>
@@ -245,7 +245,7 @@
 ### [Stats Service](https://github.com/monarc-project/stats-service)
 
 <!-- contributors-stats-service starts -->
-<a href="https://github.com/cedricbonhomme"><img src="https://avatars.githubusercontent.com/u/465400?s=100&v=4" title="543 commits" width="50px" /></a>
+<a href="https://github.com/cedricbonhomme"><img src="https://avatars.githubusercontent.com/u/465400?s=100&v=4" title="548 commits" width="50px" /></a>
 <a href="https://github.com/ruslanbaidan"><img src="https://avatars.githubusercontent.com/u/3246171?s=100&v=4" title="46 commits" width="50px" /></a>
 <a href="https://github.com/jfrocha"><img src="https://avatars.githubusercontent.com/u/2930955?s=100&v=4" title="3 commits" width="50px" /></a>
 <!-- contributors-stats-service ends -->
