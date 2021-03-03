@@ -42,13 +42,13 @@
 <a href="https://github.com/elhoim"><img src="https://avatars.githubusercontent.com/u/178521?s=100&v=4" title="18 commits" width="50px" /></a>
 <a href="https://github.com/stricaud"><img src="https://avatars.githubusercontent.com/u/956069?s=100&v=4" title="17 commits" width="50px" /></a>
 <a href="https://github.com/cedricbonhomme"><img src="https://avatars.githubusercontent.com/u/465400?s=100&v=4" title="16 commits" width="50px" /></a>
+<a href="https://github.com/cudeso"><img src="https://avatars.githubusercontent.com/u/256028?s=100&v=4" title="15 commits" width="50px" /></a>
 <a href="https://github.com/pettai"><img src="https://avatars.githubusercontent.com/u/3317462?s=100&v=4" title="15 commits" width="50px" /></a>
 <a href="https://github.com/obert01"><img src="https://avatars.githubusercontent.com/u/6752874?s=100&v=4" title="15 commits" width="50px" /></a>
 <a href="https://github.com/kscheetz"><img src="https://avatars.githubusercontent.com/u/7916199?s=100&v=4" title="15 commits" width="50px" /></a>
 <a href="https://github.com/capile"><img src="https://avatars.githubusercontent.com/u/3648974?s=100&v=4" title="15 commits" width="50px" /></a>
 <a href="https://github.com/jezkerwin"><img src="https://avatars.githubusercontent.com/u/1779665?s=100&v=4" title="14 commits" width="50px" /></a>
 <a href="https://github.com/tomking2"><img src="https://avatars.githubusercontent.com/u/15731689?s=100&v=4" title="13 commits" width="50px" /></a>
-<a href="https://github.com/cudeso"><img src="https://avatars.githubusercontent.com/u/256028?s=100&v=4" title="13 commits" width="50px" /></a>
 <a href="https://github.com/aaronkaplan"><img src="https://avatars.githubusercontent.com/u/750019?s=100&v=4" title="13 commits" width="50px" /></a>
 <a href="https://github.com/devnull-"><img src="https://avatars.githubusercontent.com/u/9305238?s=100&v=4" title="12 commits" width="50px" /></a>
 <a href="https://github.com/Aks6193"><img src="https://avatars.githubusercontent.com/u/25454459?s=100&v=4" title="11 commits" width="50px" /></a>
