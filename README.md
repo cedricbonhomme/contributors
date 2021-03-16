@@ -39,7 +39,7 @@
 <a href="https://github.com/4ekin"><img src="https://avatars.githubusercontent.com/u/2716639?s=100&v=4" title="28 commits" width="50px" /></a>
 <a href="https://github.com/zaphodef"><img src="https://avatars.githubusercontent.com/u/18658828?s=100&v=4" title="26 commits" width="50px" /></a>
 <a href="https://github.com/sfossen"><img src="https://avatars.githubusercontent.com/u/26934?s=100&v=4" title="24 commits" width="50px" /></a>
-<a href="https://github.com/tomking2"><img src="https://avatars.githubusercontent.com/u/15731689?s=100&v=4" title="20 commits" width="50px" /></a>
+<a href="https://github.com/tomking2"><img src="https://avatars.githubusercontent.com/u/15731689?s=100&v=4" title="21 commits" width="50px" /></a>
 <a href="https://github.com/elhoim"><img src="https://avatars.githubusercontent.com/u/178521?s=100&v=4" title="18 commits" width="50px" /></a>
 <a href="https://github.com/stricaud"><img src="https://avatars.githubusercontent.com/u/956069?s=100&v=4" title="17 commits" width="50px" /></a>
 <a href="https://github.com/cedricbonhomme"><img src="https://avatars.githubusercontent.com/u/465400?s=100&v=4" title="16 commits" width="50px" /></a>
@@ -148,7 +148,7 @@
 ### [PyMISP](https://github.com/MISP/PyMISP)
 
 <!-- contributors-PyMISP starts -->
-<a href="https://github.com/Rafiot"><img src="https://avatars.githubusercontent.com/u/248875?s=100&v=4" title="1487 commits" width="50px" /></a>
+<a href="https://github.com/Rafiot"><img src="https://avatars.githubusercontent.com/u/248875?s=100&v=4" title="1490 commits" width="50px" /></a>
 <a href="https://github.com/adulau"><img src="https://avatars.githubusercontent.com/u/3309?s=100&v=4" title="129 commits" width="50px" /></a>
 <a href="https://github.com/Delta-Sierra"><img src="https://avatars.githubusercontent.com/u/17081497?s=100&v=4" title="51 commits" width="50px" /></a>
 <a href="https://github.com/tomking2"><img src="https://avatars.githubusercontent.com/u/15731689?s=100&v=4" title="34 commits" width="50px" /></a>
