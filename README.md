@@ -326,6 +326,7 @@
 <a href="https://github.com/petmi627"><img src="https://avatars.githubusercontent.com/u/26305009?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/drnguyen"><img src="https://avatars.githubusercontent.com/u/15685704?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/rommelfs"><img src="https://avatars.githubusercontent.com/u/274748?s=100&v=4" title="2 commits" width="50px" /></a>
+<a href="https://github.com/osagit"><img src="https://avatars.githubusercontent.com/u/7226844?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/gallypette"><img src="https://avatars.githubusercontent.com/u/329725?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/ronaldtf"><img src="https://avatars.githubusercontent.com/u/10974337?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/mangelft"><img src="https://avatars.githubusercontent.com/u/35041797?s=100&v=4" title="1 commits" width="50px" /></a>
