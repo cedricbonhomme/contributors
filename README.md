@@ -104,6 +104,7 @@
 <a href="https://github.com/treyka"><img src="https://avatars.githubusercontent.com/u/630301?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/kirzaks"><img src="https://avatars.githubusercontent.com/u/17720113?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/abulhol"><img src="https://avatars.githubusercontent.com/u/4851778?s=100&v=4" title="2 commits" width="50px" /></a>
+<a href="https://github.com/righel"><img src="https://avatars.githubusercontent.com/u/1659902?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/jtkristoff"><img src="https://avatars.githubusercontent.com/u/9217440?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/fsoderblom"><img src="https://avatars.githubusercontent.com/u/3097851?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/patriziotufarolo"><img src="https://avatars.githubusercontent.com/u/4507407?s=100&v=4" title="1 commits" width="50px" /></a>
