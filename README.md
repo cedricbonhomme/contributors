@@ -248,7 +248,7 @@
 ### [Stats Service](https://github.com/monarc-project/stats-service)
 
 <!-- contributors-stats-service starts -->
-<a href="https://github.com/cedricbonhomme"><img src="https://avatars.githubusercontent.com/u/465400?s=100&v=4" title="669 commits" width="50px" /></a>
+<a href="https://github.com/cedricbonhomme"><img src="https://avatars.githubusercontent.com/u/465400?s=100&v=4" title="673 commits" width="50px" /></a>
 <a href="https://github.com/ruslanbaidan"><img src="https://avatars.githubusercontent.com/u/3246171?s=100&v=4" title="46 commits" width="50px" /></a>
 <a href="https://github.com/jfrocha"><img src="https://avatars.githubusercontent.com/u/2930955?s=100&v=4" title="19 commits" width="50px" /></a>
 <a href="https://github.com/weblate"><img src="https://avatars.githubusercontent.com/u/1607653?s=100&v=4" title="1 commits" width="50px" /></a>
@@ -282,9 +282,9 @@
 <a href="https://github.com/chervaliery"><img src="https://avatars.githubusercontent.com/u/10849551?s=100&v=4" title="5 commits" width="50px" /></a>
 <a href="https://github.com/RoccovanAsselt"><img src="https://avatars.githubusercontent.com/u/7493024?s=100&v=4" title="4 commits" width="50px" /></a>
 <a href="https://github.com/janidetiger"><img src="https://avatars.githubusercontent.com/u/48528115?s=100&v=4" title="4 commits" width="50px" /></a>
+<a href="https://github.com/hashworks"><img src="https://avatars.githubusercontent.com/u/2362091?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/lvets"><img src="https://avatars.githubusercontent.com/u/4215920?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/timeemit"><img src="https://avatars.githubusercontent.com/u/874691?s=100&v=4" title="3 commits" width="50px" /></a>
-<a href="https://github.com/hashworks"><img src="https://avatars.githubusercontent.com/u/2362091?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/IrootGeek"><img src="https://avatars.githubusercontent.com/u/27358580?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/jbmaillet"><img src="https://avatars.githubusercontent.com/u/2813729?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/Rafiot"><img src="https://avatars.githubusercontent.com/u/248875?s=100&v=4" title="2 commits" width="50px" /></a>
