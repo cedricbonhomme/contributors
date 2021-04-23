@@ -22,7 +22,7 @@
 
 <!-- contributors-MISP starts -->
 <a href="https://github.com/iglocska"><img src="https://avatars.githubusercontent.com/u/3668672?s=100&v=4" title="6966 commits" width="50px" /></a>
-<a href="https://github.com/mokaddem"><img src="https://avatars.githubusercontent.com/u/6977223?s=100&v=4" title="2268 commits" width="50px" /></a>
+<a href="https://github.com/mokaddem"><img src="https://avatars.githubusercontent.com/u/6977223?s=100&v=4" title="2269 commits" width="50px" /></a>
 <a href="https://github.com/chrisr3d"><img src="https://avatars.githubusercontent.com/u/16307976?s=100&v=4" title="1767 commits" width="50px" /></a>
 <a href="https://github.com/JakubOnderka"><img src="https://avatars.githubusercontent.com/u/163343?s=100&v=4" title="1075 commits" width="50px" /></a>
 <a href="https://github.com/adulau"><img src="https://avatars.githubusercontent.com/u/3309?s=100&v=4" title="987 commits" width="50px" /></a>
@@ -251,7 +251,7 @@
 <a href="https://github.com/cedricbonhomme"><img src="https://avatars.githubusercontent.com/u/465400?s=100&v=4" title="679 commits" width="50px" /></a>
 <a href="https://github.com/ruslanbaidan"><img src="https://avatars.githubusercontent.com/u/3246171?s=100&v=4" title="46 commits" width="50px" /></a>
 <a href="https://github.com/jfrocha"><img src="https://avatars.githubusercontent.com/u/2930955?s=100&v=4" title="22 commits" width="50px" /></a>
-<a href="https://github.com/weblate"><img src="https://avatars.githubusercontent.com/u/1607653?s=100&v=4" title="1 commits" width="50px" /></a>
+<a href="https://github.com/weblate"><img src="https://avatars.githubusercontent.com/u/1607653?s=100&v=4" title="2 commits" width="50px" /></a>
 <!-- contributors-stats-service ends -->
 
 
@@ -347,4 +347,5 @@
 <a href="https://github.com/ruslanbaidan"><img src="https://avatars.githubusercontent.com/u/3246171?s=100&v=4" title="106 commits" width="50px" /></a>
 <a href="https://github.com/eurodude"><img src="https://avatars.githubusercontent.com/u/2759834?s=100&v=4" title="82 commits" width="50px" /></a>
 <a href="https://github.com/jfrocha"><img src="https://avatars.githubusercontent.com/u/2930955?s=100&v=4" title="2 commits" width="50px" /></a>
+<a href="https://github.com/lorisbergeron"><img src="https://avatars.githubusercontent.com/u/51918567?s=100&v=4" title="1 commits" width="50px" /></a>
 <!-- contributors-Fit4Cybersecurity ends -->
