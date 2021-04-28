@@ -22,7 +22,7 @@
 
 <!-- contributors-MISP starts -->
 <a href="https://github.com/iglocska"><img src="https://avatars.githubusercontent.com/u/3668672?s=100&v=4" title="7016 commits" width="50px" /></a>
-<a href="https://github.com/mokaddem"><img src="https://avatars.githubusercontent.com/u/6977223?s=100&v=4" title="2323 commits" width="50px" /></a>
+<a href="https://github.com/mokaddem"><img src="https://avatars.githubusercontent.com/u/6977223?s=100&v=4" title="2324 commits" width="50px" /></a>
 <a href="https://github.com/chrisr3d"><img src="https://avatars.githubusercontent.com/u/16307976?s=100&v=4" title="1771 commits" width="50px" /></a>
 <a href="https://github.com/JakubOnderka"><img src="https://avatars.githubusercontent.com/u/163343?s=100&v=4" title="1103 commits" width="50px" /></a>
 <a href="https://github.com/adulau"><img src="https://avatars.githubusercontent.com/u/3309?s=100&v=4" title="1002 commits" width="50px" /></a>
@@ -248,9 +248,9 @@
 ### [Stats Service](https://github.com/monarc-project/stats-service)
 
 <!-- contributors-stats-service starts -->
-<a href="https://github.com/cedricbonhomme"><img src="https://avatars.githubusercontent.com/u/465400?s=100&v=4" title="686 commits" width="50px" /></a>
+<a href="https://github.com/cedricbonhomme"><img src="https://avatars.githubusercontent.com/u/465400?s=100&v=4" title="691 commits" width="50px" /></a>
 <a href="https://github.com/ruslanbaidan"><img src="https://avatars.githubusercontent.com/u/3246171?s=100&v=4" title="46 commits" width="50px" /></a>
-<a href="https://github.com/jfrocha"><img src="https://avatars.githubusercontent.com/u/2930955?s=100&v=4" title="28 commits" width="50px" /></a>
+<a href="https://github.com/jfrocha"><img src="https://avatars.githubusercontent.com/u/2930955?s=100&v=4" title="31 commits" width="50px" /></a>
 <a href="https://github.com/weblate"><img src="https://avatars.githubusercontent.com/u/1607653?s=100&v=4" title="3 commits" width="50px" /></a>
 <!-- contributors-stats-service ends -->
 
@@ -309,7 +309,7 @@
 ### [AIL-framework](https://github.com/CIRCL/AIL-framework)
 
 <!-- contributors-AIL-framework starts -->
-<a href="https://github.com/Terrtia"><img src="https://avatars.githubusercontent.com/u/8857208?s=100&v=4" title="939 commits" width="50px" /></a>
+<a href="https://github.com/Terrtia"><img src="https://avatars.githubusercontent.com/u/8857208?s=100&v=4" title="941 commits" width="50px" /></a>
 <a href="https://github.com/mokaddem"><img src="https://avatars.githubusercontent.com/u/6977223?s=100&v=4" title="439 commits" width="50px" /></a>
 <a href="https://github.com/adulau"><img src="https://avatars.githubusercontent.com/u/3309?s=100&v=4" title="135 commits" width="50px" /></a>
 <a href="https://github.com/Rafiot"><img src="https://avatars.githubusercontent.com/u/248875?s=100&v=4" title="81 commits" width="50px" /></a>
