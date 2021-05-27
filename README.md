@@ -195,6 +195,7 @@
 <a href="https://github.com/plutec"><img src="https://avatars.githubusercontent.com/u/444620?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/TheDr1ver"><img src="https://avatars.githubusercontent.com/u/6147794?s=100&v=4" title="2 commits" width="50px" /></a>
 <a href="https://github.com/grolinet"><img src="https://avatars.githubusercontent.com/u/14868599?s=100&v=4" title="2 commits" width="50px" /></a>
+<a href="https://github.com/slv008"><img src="https://avatars.githubusercontent.com/u/17850467?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/nighttardis"><img src="https://avatars.githubusercontent.com/u/12703968?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/jthom-vmray"><img src="https://avatars.githubusercontent.com/u/72789379?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/pudo"><img src="https://avatars.githubusercontent.com/u/41628?s=100&v=4" title="1 commits" width="50px" /></a>
