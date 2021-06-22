@@ -21,7 +21,7 @@
 ### [MISP](https://github.com/MISP/MISP)
 
 <!-- contributors-MISP starts -->
-<a href="https://github.com/iglocska"><img src="https://avatars.githubusercontent.com/u/3668672?s=100&v=4" title="7074 commits" width="50px" /></a>
+<a href="https://github.com/iglocska"><img src="https://avatars.githubusercontent.com/u/3668672?s=100&v=4" title="7076 commits" width="50px" /></a>
 <a href="https://github.com/mokaddem"><img src="https://avatars.githubusercontent.com/u/6977223?s=100&v=4" title="2434 commits" width="50px" /></a>
 <a href="https://github.com/chrisr3d"><img src="https://avatars.githubusercontent.com/u/16307976?s=100&v=4" title="1793 commits" width="50px" /></a>
 <a href="https://github.com/JakubOnderka"><img src="https://avatars.githubusercontent.com/u/163343?s=100&v=4" title="1132 commits" width="50px" /></a>
@@ -231,7 +231,7 @@
 
 <!-- contributors-MonarcAppFO starts -->
 <a href="https://github.com/cedricbonhomme"><img src="https://avatars.githubusercontent.com/u/465400?s=100&v=4" title="340 commits" width="50px" /></a>
-<a href="https://github.com/ruslanbaidan"><img src="https://avatars.githubusercontent.com/u/3246171?s=100&v=4" title="166 commits" width="50px" /></a>
+<a href="https://github.com/ruslanbaidan"><img src="https://avatars.githubusercontent.com/u/3246171?s=100&v=4" title="167 commits" width="50px" /></a>
 <a href="https://github.com/xplodwild"><img src="https://avatars.githubusercontent.com/u/1205428?s=100&v=4" title="54 commits" width="50px" /></a>
 <a href="https://github.com/thomas-netlor"><img src="https://avatars.githubusercontent.com/u/4964617?s=100&v=4" title="47 commits" width="50px" /></a>
 <a href="https://github.com/jfrocha"><img src="https://avatars.githubusercontent.com/u/2930955?s=100&v=4" title="43 commits" width="50px" /></a>
