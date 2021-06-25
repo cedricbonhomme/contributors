@@ -301,7 +301,7 @@
 <a href="https://github.com/Patristo"><img src="https://avatars.githubusercontent.com/u/38544606?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/igama"><img src="https://avatars.githubusercontent.com/u/76993?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/rmarsollier"><img src="https://avatars.githubusercontent.com/u/16244397?s=100&v=4" title="1 commits" width="50px" /></a>
-<a href="https://github.com/sec9"><img src="https://avatars.githubusercontent.com/u/17904770?s=100&v=4" title="1 commits" width="50px" /></a>
+<a href="https://github.com/seb-835"><img src="https://avatars.githubusercontent.com/u/17904770?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/gitter-badger"><img src="https://avatars.githubusercontent.com/u/8518239?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/maxhbr"><img src="https://avatars.githubusercontent.com/u/1187050?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/mathrock"><img src="https://avatars.githubusercontent.com/u/30048?s=100&v=4" title="1 commits" width="50px" /></a>
