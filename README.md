@@ -12,7 +12,7 @@
 ### [Newspipe](https://sr.ht/~cedric/newspipe)
 
 <!-- contributors-newspipe starts -->
-<a href="https://github.com/cedricbonhomme"><img src="https://avatars.githubusercontent.com/u/465400?s=100&v=4" title="2276 commits" width="50px" /></a>
+<a href="https://github.com/cedricbonhomme"><img src="https://avatars.githubusercontent.com/u/465400?s=100&v=4" title="2278 commits" width="50px" /></a>
 <a href="https://github.com/jaesivsm"><img src="https://avatars.githubusercontent.com/u/1969240?s=100&v=4" title="186 commits" width="50px" /></a>
 <a href="https://github.com/EdwardBetts"><img src="https://avatars.githubusercontent.com/u/3818?s=100&v=4" title="1 commits" width="50px" /></a>
 <!-- contributors-newspipe ends -->
