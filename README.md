@@ -328,6 +328,7 @@
 <a href="https://github.com/jhedden"><img src="https://avatars.githubusercontent.com/u/2622954?s=100&v=4" title="4 commits" width="50px" /></a>
 <a href="https://github.com/WimpyMan"><img src="https://avatars.githubusercontent.com/u/12594973?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/obilodeau"><img src="https://avatars.githubusercontent.com/u/546325?s=100&v=4" title="3 commits" width="50px" /></a>
+<a href="https://github.com/ngsimon"><img src="https://avatars.githubusercontent.com/u/26148566?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/Alainfou"><img src="https://avatars.githubusercontent.com/u/1525501?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/blackbern"><img src="https://avatars.githubusercontent.com/u/6016881?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/petmi627"><img src="https://avatars.githubusercontent.com/u/26305009?s=100&v=4" title="2 commits" width="50px" /></a>
