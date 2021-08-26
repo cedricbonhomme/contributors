@@ -251,7 +251,7 @@
 ### [Stats Service](https://github.com/monarc-project/stats-service)
 
 <!-- contributors-stats-service starts -->
-<a href="https://github.com/cedricbonhomme"><img src="https://avatars.githubusercontent.com/u/465400?s=100&v=4" title="824 commits" width="50px" /></a>
+<a href="https://github.com/cedricbonhomme"><img src="https://avatars.githubusercontent.com/u/465400?s=100&v=4" title="826 commits" width="50px" /></a>
 <a href="https://github.com/jfrocha"><img src="https://avatars.githubusercontent.com/u/2930955?s=100&v=4" title="62 commits" width="50px" /></a>
 <a href="https://github.com/ruslanbaidan"><img src="https://avatars.githubusercontent.com/u/3246171?s=100&v=4" title="46 commits" width="50px" /></a>
 <a href="https://github.com/weblate"><img src="https://avatars.githubusercontent.com/u/1607653?s=100&v=4" title="3 commits" width="50px" /></a>
