@@ -32,7 +32,7 @@
 <a href="https://github.com/Rafiot"><img src="https://avatars.githubusercontent.com/u/248875?s=100&v=4" title="383 commits" width="50px" /></a>
 <a href="https://github.com/rotanid"><img src="https://avatars.githubusercontent.com/u/654617?s=100&v=4" title="222 commits" width="50px" /></a>
 <a href="https://github.com/RichieB2B"><img src="https://avatars.githubusercontent.com/u/1461970?s=100&v=4" title="208 commits" width="50px" /></a>
-<a href="https://github.com/righel"><img src="https://avatars.githubusercontent.com/u/1659902?s=100&v=4" title="72 commits" width="50px" /></a>
+<a href="https://github.com/righel"><img src="https://avatars.githubusercontent.com/u/1659902?s=100&v=4" title="73 commits" width="50px" /></a>
 <a href="https://github.com/FloatingGhost"><img src="https://avatars.githubusercontent.com/u/4086403?s=100&v=4" title="46 commits" width="50px" /></a>
 <a href="https://github.com/vpiserchia"><img src="https://avatars.githubusercontent.com/u/2363618?s=100&v=4" title="36 commits" width="50px" /></a>
 <a href="https://github.com/deresz"><img src="https://avatars.githubusercontent.com/u/2729811?s=100&v=4" title="31 commits" width="50px" /></a>
