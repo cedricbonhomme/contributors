@@ -152,7 +152,7 @@
 ### [PyMISP](https://github.com/MISP/PyMISP)
 
 <!-- contributors-PyMISP starts -->
-<a href="https://github.com/Rafiot"><img src="https://avatars.githubusercontent.com/u/248875?s=100&v=4" title="1580 commits" width="50px" /></a>
+<a href="https://github.com/Rafiot"><img src="https://avatars.githubusercontent.com/u/248875?s=100&v=4" title="1581 commits" width="50px" /></a>
 <a href="https://github.com/adulau"><img src="https://avatars.githubusercontent.com/u/3309?s=100&v=4" title="130 commits" width="50px" /></a>
 <a href="https://github.com/Delta-Sierra"><img src="https://avatars.githubusercontent.com/u/17081497?s=100&v=4" title="51 commits" width="50px" /></a>
 <a href="https://github.com/tomking2"><img src="https://avatars.githubusercontent.com/u/15731689?s=100&v=4" title="34 commits" width="50px" /></a>
@@ -231,7 +231,7 @@
 ### [MONARC](https://github.com/monarc-project/MonarcAppFO)
 
 <!-- contributors-MonarcAppFO starts -->
-<a href="https://github.com/cedricbonhomme"><img src="https://avatars.githubusercontent.com/u/465400?s=100&v=4" title="350 commits" width="50px" /></a>
+<a href="https://github.com/cedricbonhomme"><img src="https://avatars.githubusercontent.com/u/465400?s=100&v=4" title="351 commits" width="50px" /></a>
 <a href="https://github.com/ruslanbaidan"><img src="https://avatars.githubusercontent.com/u/3246171?s=100&v=4" title="177 commits" width="50px" /></a>
 <a href="https://github.com/xplodwild"><img src="https://avatars.githubusercontent.com/u/1205428?s=100&v=4" title="54 commits" width="50px" /></a>
 <a href="https://github.com/jfrocha"><img src="https://avatars.githubusercontent.com/u/2930955?s=100&v=4" title="50 commits" width="50px" /></a>
@@ -283,8 +283,8 @@
 <a href="https://github.com/psychedelys"><img src="https://avatars.githubusercontent.com/u/1389006?s=100&v=4" title="18 commits" width="50px" /></a>
 <a href="https://github.com/AZobec"><img src="https://avatars.githubusercontent.com/u/6973759?s=100&v=4" title="12 commits" width="50px" /></a>
 <a href="https://github.com/kairis"><img src="https://avatars.githubusercontent.com/u/8766250?s=100&v=4" title="11 commits" width="50px" /></a>
+<a href="https://github.com/oh2fih"><img src="https://avatars.githubusercontent.com/u/58781154?s=100&v=4" title="7 commits" width="50px" /></a>
 <a href="https://github.com/hashworks"><img src="https://avatars.githubusercontent.com/u/2362091?s=100&v=4" title="6 commits" width="50px" /></a>
-<a href="https://github.com/oh2fih"><img src="https://avatars.githubusercontent.com/u/58781154?s=100&v=4" title="5 commits" width="50px" /></a>
 <a href="https://github.com/chervaliery"><img src="https://avatars.githubusercontent.com/u/10849551?s=100&v=4" title="5 commits" width="50px" /></a>
 <a href="https://github.com/RoccovanAsselt"><img src="https://avatars.githubusercontent.com/u/7493024?s=100&v=4" title="4 commits" width="50px" /></a>
 <a href="https://github.com/janidetiger"><img src="https://avatars.githubusercontent.com/u/48528115?s=100&v=4" title="4 commits" width="50px" /></a>
