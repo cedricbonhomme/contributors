@@ -152,7 +152,7 @@
 ### [PyMISP](https://github.com/MISP/PyMISP)
 
 <!-- contributors-PyMISP starts -->
-<a href="https://github.com/Rafiot"><img src="https://avatars.githubusercontent.com/u/248875?s=100&v=4" title="1581 commits" width="50px" /></a>
+<a href="https://github.com/Rafiot"><img src="https://avatars.githubusercontent.com/u/248875?s=100&v=4" title="1583 commits" width="50px" /></a>
 <a href="https://github.com/adulau"><img src="https://avatars.githubusercontent.com/u/3309?s=100&v=4" title="130 commits" width="50px" /></a>
 <a href="https://github.com/Delta-Sierra"><img src="https://avatars.githubusercontent.com/u/17081497?s=100&v=4" title="51 commits" width="50px" /></a>
 <a href="https://github.com/tomking2"><img src="https://avatars.githubusercontent.com/u/15731689?s=100&v=4" title="34 commits" width="50px" /></a>
@@ -276,7 +276,7 @@
 <!-- contributors-cve-search starts -->
 <a href="https://github.com/PidgeyL"><img src="https://avatars.githubusercontent.com/u/8830839?s=100&v=4" title="731 commits" width="50px" /></a>
 <a href="https://github.com/adulau"><img src="https://avatars.githubusercontent.com/u/3309?s=100&v=4" title="587 commits" width="50px" /></a>
-<a href="https://github.com/P-T-I"><img src="https://avatars.githubusercontent.com/u/11720165?s=100&v=4" title="438 commits" width="50px" /></a>
+<a href="https://github.com/P-T-I"><img src="https://avatars.githubusercontent.com/u/11720165?s=100&v=4" title="439 commits" width="50px" /></a>
 <a href="https://github.com/DocArmoryTech"><img src="https://avatars.githubusercontent.com/u/25778167?s=100&v=4" title="22 commits" width="50px" /></a>
 <a href="https://github.com/mdeous"><img src="https://avatars.githubusercontent.com/u/393165?s=100&v=4" title="20 commits" width="50px" /></a>
 <a href="https://github.com/wimremes"><img src="https://avatars.githubusercontent.com/u/1710311?s=100&v=4" title="20 commits" width="50px" /></a>
