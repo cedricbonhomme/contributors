@@ -280,8 +280,8 @@
 <a href="https://github.com/DocArmoryTech"><img src="https://avatars.githubusercontent.com/u/25778167?s=100&v=4" title="22 commits" width="50px" /></a>
 <a href="https://github.com/mdeous"><img src="https://avatars.githubusercontent.com/u/393165?s=100&v=4" title="20 commits" width="50px" /></a>
 <a href="https://github.com/wimremes"><img src="https://avatars.githubusercontent.com/u/1710311?s=100&v=4" title="20 commits" width="50px" /></a>
+<a href="https://github.com/oh2fih"><img src="https://avatars.githubusercontent.com/u/58781154?s=100&v=4" title="18 commits" width="50px" /></a>
 <a href="https://github.com/psychedelys"><img src="https://avatars.githubusercontent.com/u/1389006?s=100&v=4" title="18 commits" width="50px" /></a>
-<a href="https://github.com/oh2fih"><img src="https://avatars.githubusercontent.com/u/58781154?s=100&v=4" title="13 commits" width="50px" /></a>
 <a href="https://github.com/AZobec"><img src="https://avatars.githubusercontent.com/u/6973759?s=100&v=4" title="12 commits" width="50px" /></a>
 <a href="https://github.com/kairis"><img src="https://avatars.githubusercontent.com/u/8766250?s=100&v=4" title="11 commits" width="50px" /></a>
 <a href="https://github.com/hashworks"><img src="https://avatars.githubusercontent.com/u/2362091?s=100&v=4" title="6 commits" width="50px" /></a>
