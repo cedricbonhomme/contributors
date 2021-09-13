@@ -266,7 +266,6 @@
 <a href="https://github.com/maxwellgerber"><img src="https://avatars.githubusercontent.com/u/11035210?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/andyroberts"><img src="https://avatars.githubusercontent.com/u/831044?s=100&v=4" title="3 commits" width="50px" /></a>
 <a href="https://github.com/sh4nks"><img src="https://avatars.githubusercontent.com/u/1510708?s=100&v=4" title="2 commits" width="50px" /></a>
-<a href="https://github.com/BoboTiG"><img src="https://avatars.githubusercontent.com/u/2033598?s=100&v=4" title="1 commits" width="50px" /></a>
 <a href="https://github.com/pannal"><img src="https://avatars.githubusercontent.com/u/1359593?s=100&v=4" title="1 commits" width="50px" /></a>
 <!-- contributors-stegano ends -->
 
